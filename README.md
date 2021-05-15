@@ -2,9 +2,14 @@
 
 # iOS Apps
 
+List of apps that I am working on.
+
 1. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
 2. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
+
 # Swift
+
+List of courses I took to improve my knowledge and skills through years about iOS development.
 
 1. [x] [App Development with Swift (Diploma Course at iOS Development Lab, UNAM)](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
 2. [x] [iOS Programming (Swift)](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift) 
@@ -31,6 +36,8 @@
 
 # Bash Scripts
 
+List of scripts I wrote to speed up my developments
+
 1. [x] [Create Content Index script](https://github.com/c4arl0s/CreateContentIndexScript#create-content-index-script)
 2. [x] [Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
 3. [x] [Extract Images from a pdf file](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
@@ -42,7 +49,8 @@
 
 # Algorithms
 
-1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift)  
+
+1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift)
 2. [ ] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
 
 # Data Bases

@@ -21,6 +21,12 @@
 3. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec)  
 4. [x] [Objective-C Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
 
+# C
+
+1. [x] [Understanding And Using C Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)  
+2. [x] [Learn C on The Mac For OSX and iOS](https://github.com/c4arl0s/Learn_C_onTheMacForOSXandiOS#learn_c_onthemacforosxandios) 
+3. [ ] [Numerical Analysis With C Programming Language](https://github.com/c4arl0s/NumericalAnalysisWithCProgrammingLanguage#numerical-analysis-with-c-programming-language---content)
+
 # Bash Scripts
 
 1. [x] [Create Content Index script](https://github.com/c4arl0s/CreateContentIndexScript#create-content-index-script)
@@ -49,12 +55,6 @@
 2. [x] [VIM](https://github.com/c4arl0s/VIM#vim) 
 3. [ ] [Regular Expresions](https://github.com/c4arl0s/RegularExpressions#regular-expression---content) 
 4. [ ] [English Language](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
-
-# C Programming Language
-
-1. [x] [Understanding And Using C Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)  
-2. [x] [Learn C on The Mac For OSX and iOS](https://github.com/c4arl0s/Learn_C_onTheMacForOSXandiOS#learn_c_onthemacforosxandios) 
-3. [ ] [Numerical Analysis With C Programming Language](https://github.com/c4arl0s/NumericalAnalysisWithCProgrammingLanguage#numerical-analysis-with-c-programming-language---content)
 
 # Computer Systems
 

@@ -9,7 +9,7 @@ List of apps that I am working on.
 
 # Swift
 
-List of courses I took to improve my knowledge and skills through years about iOS development.
+List of courses I took to improve my knowledge and skills through the years about iOS development.
 
 1. [x] [App Development with Swift (Diploma Course at iOS Development Lab, UNAM)](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
 2. [x] [iOS Programming (Swift)](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift) 
@@ -18,7 +18,7 @@ List of courses I took to improve my knowledge and skills through years about iO
 5. [x] [Apple iOS Swift Unit Testing](https://github.com/c4arl0s/LearnAppleiOSSwiftUnitTesting#learn-apple-ios-swift-unit-testing---content) 
 6. [ ] [Using Speech Framework](https://github.com/c4arl0s/RecognizingSpeechInLiveAudio#recognizingspeechinliveaudio)
 7. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode)
-8. [ ] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) 
+8. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) 
 9. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) 
  
 # Objective-C

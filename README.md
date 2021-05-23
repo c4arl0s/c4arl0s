@@ -11,7 +11,7 @@ List of apps that I am working on.
 
 List of courses I took to improve my knowledge and skills through the years about iOS development.
 
-1. [x] [App Development with Swift (Diploma Course at iOS Development Lab, UNAM)](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
+1. [x] [App Development with Swift](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) (Diploma Course at iOS Development Lab, UNAM) 
 2. [x] [iOS Programming (Swift)](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift) 
 3. [x] [Practical Autolayout](https://github.com/c4arl0s/PracticalAutoLayoutXcode8#practical-autolayout---xcode-8) 
 4. [x] [Learn to Code in Swift](https://github.com/c4arl0s/LearnToCodeInSwift4#learn-to-code-in-swift-4---content) 

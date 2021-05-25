@@ -11,20 +11,20 @@ List of apps that I am working on.
 
 List of courses I took to improve my knowledge and skills through the years about iOS development.
 
-1. [x] [App Development with Swift](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) (Diploma Course at iOS Development Lab, UNAM) 
-2. [x] [iOS Programming (Swift)](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift) 
+1. [x] [App Development with Swift](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) (Diploma Course at iOS Development Lab, UNAM, 2018) 
+2. [x] [iOS Programming with Swift](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift)
 3. [x] [Practical Autolayout](https://github.com/c4arl0s/PracticalAutoLayoutXcode8#practical-autolayout---xcode-8) 
 4. [x] [Learn to Code in Swift](https://github.com/c4arl0s/LearnToCodeInSwift4#learn-to-code-in-swift-4---content) 
 5. [x] [Apple iOS Swift Unit Testing](https://github.com/c4arl0s/LearnAppleiOSSwiftUnitTesting#learn-apple-ios-swift-unit-testing---content) 
-6. [ ] [Using Speech Framework](https://github.com/c4arl0s/RecognizingSpeechInLiveAudio#recognizingspeechinliveaudio)
-7. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode)
-8. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) 
-9. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) 
+6. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode)
+7. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) 
+8. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) 
  
 # Objective-C
 
-3. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec)  
-4. [x] [Objective-C Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
+1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec)  
+2. [x] [Objective-C Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
+3. [ ] [Using Speech Framework](https://github.com/c4arl0s/RecognizingSpeechInLiveAudio#recognizingspeechinliveaudio)
 
 # C
 

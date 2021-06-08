@@ -29,8 +29,8 @@ List of courses I took to improve my knowledge and skills through the years abou
 # C
 
 1. [x] [Understanding And Using C Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)  
-2. [ ] [Representing and Manipulating Information with C](https://github.com/c4arl0s/2RepresentingAndManipulatingInformation#2-representing-and-manipulating-information---content)
-3. [ ] [Optimizing Program Performance with C](https://github.com/c4arl0s/5OptimizingProgramPerformance#5-optimizing-program-performance---content)
+2. [x] [Representing and Manipulating Information with C](https://github.com/c4arl0s/2RepresentingAndManipulatingInformation#2-representing-and-manipulating-information---content)
+3. [x] [Optimizing Program Performance with C](https://github.com/c4arl0s/5OptimizingProgramPerformance#5-optimizing-program-performance---content)
 2. [x] [Learn C on The Mac For OSX and iOS](https://github.com/c4arl0s/Learn_C_onTheMacForOSXandiOS#learn_c_onthemacforosxandios) 
 3. [ ] [Numerical Analysis With C Programming Language](https://github.com/c4arl0s/NumericalAnalysisWithCProgrammingLanguage#numerical-analysis-with-c-programming-language---content)
 
@@ -51,7 +51,7 @@ List of scripts I wrote to speed up my developments
 
 
 1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift)
-2. [ ] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
+2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
 
 # Data Bases
 

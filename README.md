@@ -53,6 +53,10 @@ List of scripts I wrote to speed up my developments
 1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift)
 2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
 
+# Version Control System - Git
+
+1. [x] [Git - Version Control System Tutorial Notes](https://github.com/c4arl0s/RysGitTutorial#rys-git-tutorial) 
+
 # Data Bases
 
 1. [x] [SQLite For Mobil Apps Simplified](https://github.com/c4arl0s/SQLiteForMobileAppsSimplified#sqlite3_notes) 
@@ -61,7 +65,6 @@ List of scripts I wrote to speed up my developments
 
 # Utility
 
-1. [x] [Git Tutorial](https://github.com/c4arl0s/RysGitTutorial#rys-git-tutorial) 
 2. [x] [VIM](https://github.com/c4arl0s/VIM#vim) 
 3. [ ] [Regular Expresions](https://github.com/c4arl0s/RegularExpressions#regular-expression---content) 
 4. [ ] [English Language](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)

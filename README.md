@@ -93,6 +93,10 @@ List of scripts I wrote to speed up my developments
 
 1. [x] [Electronic Devices Notes](https://github.com/c4arl0s/ElectronicDevicesNotes#electronic-devices-notes)
 
+# Analog Control
+
+1. [x] [Analog Control](https://github.com/c4arl0s/AnalogControl)
+
 # Fuzzy Logic
 
 1. [x] [Fuzzy Logic Notes](https://github.com/c4arl0s/FuzzyLogic#fuzzy-logic-notes)

@@ -38,13 +38,13 @@ List of courses I took to improve my knowledge and skills through the years abou
 
 List of scripts I wrote to speed up my developments
 
-1. [x] [Create Content Index script](https://github.com/c4arl0s/CreateContentIndexScript#create-content-index-script)
+1. [x] [Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndexScript#create-content-index-script)
 2. [x] [Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
-3. [x] [Extract Images from a pdf file](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
-4. [x] [It checks if a .gitignore file does not exist into a directory](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
-5. [x] [Add3: It was used back in my student days to store english/spanish vocabulary](https://github.com/c4arl0s/Script-Add3)
-6. [x] [trad3: It was used back in my student days to retrieve english/spanish vocabulary](https://github.com/c4arl0s/DictEnEsScript)
-7. [x] [renameAllFilesScript: ename all files and directories in the current directory](https://github.com/c4arl0s/renameAllFilesScript)
+3. [x] [VerifyStatusRepositoriesScript: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
+4. [x] [Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
+5. [x] [Add3: It was created in my student days to store english/spanish vocabulary](https://github.com/c4arl0s/Script-Add3)
+6. [x] [It was used back in my student days to retrieve english/spanish vocabulary](https://github.com/c4arl0s/DictEnEsScript)
+7. [x] [renameAllFilesScript: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
 8. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
 
 # Algorithms

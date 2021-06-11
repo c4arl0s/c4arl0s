@@ -1,30 +1,37 @@
 ### Main Projects In:
 
+This is a list of projects that I have been working. 
+
 # iOS Apps
 
-List of apps that I am working on.
+List of apps that I am working.
 
 1. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
 2. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
 
 # Swift
 
-List of courses I took to improve my knowledge and skills through the years about iOS development.
+List of courses I took to improve my knowledge and skills about iOS Development through a couple of years.
 
 1. [x] [App Development with Swift](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) (Diploma Course at iOS Development Lab, UNAM, 2018) 
-2. [x] [iOS Programming with Swift](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift)
-3. [x] [Practical Autolayout](https://github.com/c4arl0s/PracticalAutoLayoutXcode8#practical-autolayout---xcode-8) 
-4. [x] [Learn to Code in Swift](https://github.com/c4arl0s/LearnToCodeInSwift4#learn-to-code-in-swift-4---content) 
-5. [x] [Apple iOS Swift Unit Testing](https://github.com/c4arl0s/LearnAppleiOSSwiftUnitTesting#learn-apple-ios-swift-unit-testing---content) 
-6. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode)
-7. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) 
-8. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) 
+2. [x] [iOS Programming with Swift](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift) (BNR course provided by iOS instructors to improve skills)
+3. [x] [Practical Autolayout](https://github.com/c4arl0s/PracticalAutoLayoutXcode8#practical-autolayout---xcode-8) (Interesting book about how to demystify Autolayout)
+4. [x] [Learn to Code in Swift](https://github.com/c4arl0s/LearnToCodeInSwift4#learn-to-code-in-swift-4---content) (Interesting way to teach Swift using iOS projects created by the author, It is a must)
+5. [x] [Apple iOS Swift Unit Testing](https://github.com/c4arl0s/LearnAppleiOSSwiftUnitTesting#learn-apple-ios-swift-unit-testing---content) (First approach)
+6. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode) (Apple course that teach you an introduction about ARKit)
+7. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) (Important chapter provided by Learn to Code in Swift book)
+8. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
  
 # Objective-C
 
-1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec)  
+1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec) 
 2. [x] [Objective-C Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
 3. [ ] [Using Speech Framework](https://github.com/c4arl0s/RecognizingSpeechInLiveAudio#recognizingspeechinliveaudio)
+
+# Algorithms
+
+1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift) 
+2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
 
 # C
 
@@ -46,12 +53,6 @@ List of scripts I wrote to speed up my developments
 6. [x] [It was used back in my student days to retrieve english/spanish vocabulary](https://github.com/c4arl0s/DictEnEsScript)
 7. [x] [renameAllFilesScript: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
 8. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
-
-# Algorithms
-
-
-1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift)
-2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
 
 # Version Control System - Git
 
@@ -103,3 +104,5 @@ List of scripts I wrote to speed up my developments
 # Fuzzy Logic
 
 1. [x] [Fuzzy Logic Notes](https://github.com/c4arl0s/FuzzyLogic#fuzzy-logic-notes)
+
+Most of these projects show you a content index which leads you to a specific repository where I am storing all the code or the complete information. Send me an email c.santiago.cruz@icloud.com if you want to see the content. For me is important information because it took me months to read them and document them.

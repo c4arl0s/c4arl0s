@@ -6,8 +6,15 @@ This is a list of projects that I have been working.
 
 List of apps that I am working.
 
-1. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
-2. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
+1. [x] [ListApp (iPhone App, Swift)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp)
+2. [x] [RestaurantApp (iPhone App, Swift)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#restaurant-app)
+3. [x] [PhotoramaApp (iPhone App, Swift)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#21-collectionview-for-photoramaapp)
+4. [x] [PersonalityQuizApp (Swift, iPhone App)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz)
+5. [x] [ApplePieApp (iPad App, Swift)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie)
+6. [x] [Calculator interface](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#autolayout-and-stack-views)
+7. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
+8. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
+
 
 # Swift
 

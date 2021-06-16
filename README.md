@@ -2,7 +2,7 @@
 
 This is a list of projects that I have been working. 
 
-# iOS Apps
+# [iOS Apps](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
 List of apps that I am working.
 
@@ -11,7 +11,7 @@ List of apps that I am working.
 3. [x] [PhotoramaApp (iPhone App, Swift)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#21-collectionview-for-photoramaapp)
 4. [x] [PersonalityQuizApp (Swift, iPhone App)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz)
 5. [x] [ApplePieApp (iPad App, Swift)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie)
-6. [x] [Calculator interface](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#autolayout-and-stack-views)
+6. [x] [Calculator interface (iPhone app, Swift)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#autolayout-and-stack-views)
 7. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
 8. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
 
@@ -111,5 +111,3 @@ List of scripts I wrote to speed up my developments
 # Fuzzy Logic
 
 1. [x] [Fuzzy Logic Notes](https://github.com/c4arl0s/FuzzyLogic#fuzzy-logic-notes)
-
-Most of these projects show you a content index which leads you to a specific repository where I am storing all the code or the complete information. Send me an email c.santiago.cruz@icloud.com if you want to see the content. For me is important information because it took me months to read them and document them.

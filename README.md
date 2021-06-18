@@ -1,22 +1,34 @@
-### Main Projects In:
+# Main Projects:
 
-This is a list of projects that I have been working. 
+# [iOS Apps using Swift/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
-# [iOS Apps](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
+List of apps I developed during diploma course and self-study time. The documentation occurred during the last months.
 
-List of apps that I am working.
+1. [x] [List (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp)
+2. [x] [Restaurant (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#restaurant-app)
+3. [x] [Photorama (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#21-collectionview-for-photoramaapp)
+4. [x] [Personality Quiz (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz)
+5. [x] [Hotel Manzana (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#hotel-manzana-app)
+6. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie)
+7. [x] [Calculator (Only UI, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab)
+8. [x] [Homepwner (Swift, iPhone)](https://github.com/c4arl0s/17SizeClasses#2-bronze-challenge-stacked-text-field-and-labels)
+9. [x] [WorldTrotter (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-worldtrotter-app)
+10. [x] [TouchTracker (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-touchtracker-app)
+11. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
+12. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
 
-1. [x] [ListApp (iPhone App, Swift)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp)
-2. [x] [RestaurantApp (iPhone App, Swift)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#restaurant-app)
-3. [x] [PhotoramaApp (iPhone App, Swift)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#21-collectionview-for-photoramaapp)
-4. [x] [PersonalityQuizApp (Swift, iPhone App)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz)
-5. [x] [ApplePieApp (iPad App, Swift)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie)
-6. [x] [Calculator interface (iPhone app, Swift)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#autolayout-and-stack-views)
-7. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
-8. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
+# [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
+List of apps I developed during self-study time.
 
-# Swift
+11. [x] [Hypnosister (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-hypnosister-app)
+12. [x] [Homepwner (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-homepwner-app)
+13. [x] [TouchTracker (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-touchtracker-app)
+14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-nerdfeed-app)
+15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-mediaplayer-app)
+16. [x] [CocoaServer (iPhone, using MRC](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app)
+
+# iOS Development Courses
 
 List of courses I took to improve my knowledge and skills about iOS Development through a couple of years.
 
@@ -44,7 +56,7 @@ List of courses I took to improve my knowledge and skills about iOS Development 
 
 1. [x] [Understanding And Using C Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)  
 2. [x] [Representing and Manipulating Information with C](https://github.com/c4arl0s/2RepresentingAndManipulatingInformation#2-representing-and-manipulating-information---content)
-3. [x] [Optimizing Program Performance with C](https://github.com/c4arl0s/5OptimizingProgramPerformance#5-optimizing-program-performance---content)
+3. [x] [Optimizing Program Performance with C](https://github.com/c4arl0s/ComputerSystemsAProgrammersPerspectiveContentIndex#5-optimizing-program-performance)
 2. [x] [Learn C on The Mac For OSX and iOS](https://github.com/c4arl0s/Learn_C_onTheMacForOSXandiOS#learn_c_onthemacforosxandios) 
 3. [ ] [Numerical Analysis With C Programming Language](https://github.com/c4arl0s/NumericalAnalysisWithCProgrammingLanguage#numerical-analysis-with-c-programming-language---content)
 

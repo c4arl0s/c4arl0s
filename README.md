@@ -2,20 +2,20 @@
 
 # [iOS Apps using Swift/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
-List of apps I developed during diploma course and self-study time. The documentation occurred during the last months.
+List of apps I developed during diploma course and self-study time.
 
-1. [x] [List (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp)
+1. [x] [Photorama (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#photorama-app)
 2. [x] [Restaurant (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#restaurant-app)
-3. [x] [Photorama (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#photorama-app)
-4. [x] [Personality Quiz (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz)
+3. [x] [List (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp)
+4. [x] [Homepwner (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#homepwner-app)
 5. [x] [Hotel Manzana (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#hotel-manzana-app)
-6. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie)
-7. [x] [Calculator (Only UI, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab)
-8. [x] [Homepwner (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#homepwner-app)
-9. [x] [WorldTrotter (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-worldtrotter-app)
-10. [x] [TouchTracker (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-touchtracker-app)
-11. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
-12. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
+6. [x] [Personality Quiz (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz)
+7. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie)
+8. [x] [WorldTrotter (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-worldtrotter-app)
+9. [x] [TouchTracker (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-touchtracker-app)
+10. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
+11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
+12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab)
 
 # [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
@@ -26,9 +26,14 @@ List of apps I developed during self-study time.
 13. [x] [TouchTracker (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-touchtracker-app)
 14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-nerdfeed-app)
 15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-mediaplayer-app)
-16. [x] [CocoaServer (iPhone, using MRC](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app)
+16. [ ] [CocoaServer (iPhone, using MRC](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app)
 
-# iOS Development Courses
+# MacOS Applications / Objective-C / Cocoa
+
+1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#28-your-first-cocoa-application)
+2. [x] [Cocoa Server App](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app)
+
+# iOS Development Courses / Swift
 
 List of courses I took to improve my knowledge and skills about iOS Development through a couple of years.
 
@@ -41,7 +46,7 @@ List of courses I took to improve my knowledge and skills about iOS Development 
 7. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) (Important chapter provided by Learn to Code in Swift book)
 8. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
  
-# Objective-C
+# iOS Development Courses / Objective-C 
 
 1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec) 
 2. [x] [Objective-C Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
@@ -50,10 +55,14 @@ List of courses I took to improve my knowledge and skills about iOS Development 
 
 # Algorithms
 
+Projects to implement Swift and Objective-C code that comes from the book [Introduction to Algorithms and Data Structures in Swift 4](https://books.apple.com/mx/book/introduction-to-algorithms-and-data-structures-in-swift-4/id1345964250?l=en), you can buy it on Book Store.
+
 1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift) 
 2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
 
 # C
+
+Lectures, notes, code and documentation about C programming language.
 
 1. [x] [Understanding And Using C Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)  
 2. [x] [Representing and Manipulating Information with C](https://github.com/c4arl0s/2RepresentingAndManipulatingInformation#2-representing-and-manipulating-information---content)
@@ -80,6 +89,8 @@ List of scripts I wrote to speed up my developments
 
 # Data Bases
 
+Lectures, code and documentation about data bases.
+
 1. [x] [SQLite For Mobil Apps Simplified](https://github.com/c4arl0s/SQLiteForMobileAppsSimplified#sqlite3_notes) 
 2. [ ] [Designing Data Intensive Applications](https://github.com/c4arl0s/DesigningDataIntensiveApplications#designing-data-intensive-applications) 
 3. [x] [Introducing SQLite for Mobile Developers](https://github.com/c4arl0s/SQLiteForMobilDevelopers#sqliteformobildevelopers) 
@@ -92,10 +103,14 @@ List of scripts I wrote to speed up my developments
 
 # Computer Systems
 
+Notes about computer systems engineering from programming perspective.
+
 1. [x] [Computer Systems - A Programmers Perspective](https://github.com/c4arl0s/ComputerSystems_aProgrammersPerspective#computer-systems---a-programmers-perspective) 
 2. [x] [Computer Organization and Design Fundamentals](https://github.com/c4arl0s/ComputerOrganization-DesignFundamentals#computer-organization-and-design-fundamentals) 
 
 # Microprocessors and MicroControllers
+
+Notes about how a microprocessor and a microcontrollers work.
 
 1. [x] [Inside The Machine](https://github.com/c4arl0s/InsideTheMachine#inside-the-machine) 
 2. [x] [Microprocessorsi And Microcontrollers](https://github.com/c4arl0s/MicroprocessorsAndMicrocontrollers) 

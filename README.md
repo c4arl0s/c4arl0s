@@ -4,34 +4,33 @@
 
 List of apps I developed during diploma course and self-study time.
 
-1. [x] [Photorama (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#photorama-app)
-2. [x] [Restaurant (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#restaurant-app)
-3. [x] [List (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp)
-4. [x] [Homepwner (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#homepwner-app)
-5. [x] [Hotel Manzana (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#hotel-manzana-app)
-6. [x] [Personality Quiz (iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz)
-7. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie)
-8. [x] [WorldTrotter (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-worldtrotter-app)
-9. [x] [TouchTracker (iPhone)](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-touchtracker-app)
-10. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content)
-11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp)
-12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab)
+1. [x] [Photorama](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#photorama-app). It make a web service request to get photos.
+2. [x] [Restaurant](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#restaurant-app). Interactive restaurant menu that displays offerings, adds orders and sent order request.
+3. [x] [List](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp). Display, add, delete and save a list of tasks.
+4. [x] [Homepwner](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#homepwner-app) It keeps an inventory of all your possessions. It records name, serial number, value and a picture.
+5. [x] [Hotel Manzana](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#hotel-manzana-app). This app allows you to register guests when they arrive.
+6. [x] [Personality Quiz](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz). This app is a silly game that is going to reflect part of your personality.
+7. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie). Word guessing game.
+8. [x] [WorldTrotter](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-worldtrotter-app). This app converts values between degrees Fahrenheit and degrees Celsius.
+9. [x] [TouchTracker](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-touchtracker-app). An app that lets the user draw lines by touching the screen 
+10. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content). List of tasks or activities placed in chronological order.
+11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp). Project that shows a catalog of Steriflow products.
+12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab). User interface that shows you the power of Autolayout.
 
 # [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
 List of apps I developed during self-study time.
 
-11. [x] [Hypnosister (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-hypnosister-app)
-12. [x] [Homepwner (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-homepwner-app)
-13. [x] [TouchTracker (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-touchtracker-app)
-14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-nerdfeed-app)
-15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-mediaplayer-app)
-16. [ ] [CocoaServer (iPhone, using MRC](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app)
+11. [x] [Hypnosister (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-hypnosister-app). Change and move concentric circles color with shake motion detection.
+12. [x] [Homepwner (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-homepwner-app). It keeps an inventory of all your possessions.
+13. [x] [TouchTracker (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-touchtracker-app). This application lets the user draw lines by dragging across the view.
+14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-nerdfeed-app). It reads the RSS feed from the Apple newsroom web service.
+15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-mediaplayer-app). Simple user interface to display a movie or video and audio.
 
 # MacOS Applications / Objective-C / Cocoa
 
-1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#28-your-first-cocoa-application)
-2. [x] [Cocoa Server App](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app)
+1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#28-your-first-cocoa-application). Simple to-do list application that stores its data as a property list.
+2. [ ] [Cocoa Server App](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app). It creates a server to broadcast its presence and advertise its service on a local area network.
 
 # iOS Development Courses / Swift
 

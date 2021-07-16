@@ -17,6 +17,8 @@ List of apps I developed during diploma course and self-study time.
 11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp). Project that shows a catalog of Steriflow products.
 12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab). User interface that shows you the power of Autolayout.
 
+Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
+
 # [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
 List of apps I developed during self-study time.
@@ -27,10 +29,14 @@ List of apps I developed during self-study time.
 14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-nerdfeed-app). It reads the RSS feed from the Apple newsroom web service.
 15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-mediaplayer-app). Simple user interface to display a movie or video and audio.
 
+Frameworks used: UIKit, CoreData. 
+
 # MacOS Applications / Objective-C / Cocoa
 
 1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#28-your-first-cocoa-application). Simple to-do list application that stores its data as a property list.
 2. [ ] [Cocoa Server App](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app). It creates a server to broadcast its presence and advertise its service on a local area network.
+
+Frameworks used: 
 
 # iOS Development Courses / Swift
 
@@ -44,7 +50,9 @@ List of courses I took to improve my knowledge and skills about iOS Development 
 6. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode) (Apple course that teach you an introduction about ARKit)
 7. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) (Important chapter provided by Learn to Code in Swift book)
 8. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
- 
+
+Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech. 
+
 # iOS Development Courses / Objective-C 
 
 1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec) 
@@ -52,12 +60,16 @@ List of courses I took to improve my knowledge and skills about iOS Development 
 3. [ ] [Using Speech Framework](https://github.com/c4arl0s/RecognizingSpeechInLiveAudio#recognizingspeechinliveaudio)
 4. [ ] [Grand Central Dispatch](https://github.com/c4arl0s/15GrandCentralDispatchBackgroundProcessingAndYou#15-grand-central-dispatch-background-processing-and-you---content)
 
+Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVFoundation, Speech.
+
 # Algorithms
 
 Projects to implement Swift and Objective-C code that comes from the book [Introduction to Algorithms and Data Structures in Swift 4](https://books.apple.com/mx/book/introduction-to-algorithms-and-data-structures-in-swift-4/id1345964250?l=en), you can buy it on Book Store.
 
 1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift) 
 2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
+
+Frameworks used: QuartzCore. 
 
 # C
 

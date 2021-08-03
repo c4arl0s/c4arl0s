@@ -4,7 +4,7 @@
 
 List of apps I developed during diploma course and self-study time.
 
-1. [x] [Photorama](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#photorama-app). It make a web service request to get photos.
+1. [x] [Photorama](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#photorama-app). It makes a web service request to get photos.
 2. [x] [Restaurant](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#restaurant-app). Interactive restaurant menu that displays offerings, adds orders and sent order request.
 3. [x] [List](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp). Display, add, delete and save a list of tasks.
 4. [x] [Homepwner](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#homepwner-app) It keeps an inventory of all your possessions. It records name, serial number, value and a picture.
@@ -18,6 +18,7 @@ List of apps I developed during diploma course and self-study time.
 12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab). User interface that shows you the power of Autolayout.
 
 Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
+iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action, 
 
 # [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 

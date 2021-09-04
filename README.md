@@ -17,8 +17,8 @@ List of apps I developed during diploma course and self-study time.
 11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp). Project that shows a catalog of Steriflow products.
 12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab). User interface that shows you the power of Autolayout.
 
-Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
-iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action, 
+- Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
+- iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action, 
 
 # [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
@@ -30,16 +30,16 @@ List of apps I developed during self-study time.
 14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-nerdfeed-app). It reads the RSS feed from the Apple newsroom web service.
 15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-mediaplayer-app). Simple user interface to display a movie or video and audio.
 
-Frameworks used: UIKit, CoreData. 
+- Frameworks used: UIKit, CoreData. 
 
 # MacOS Applications / Objective-C / Cocoa
 
 1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#28-your-first-cocoa-application). Simple to-do list application that stores its data as a property list.
 2. [ ] [Cocoa Server App](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app). It creates a server to broadcast its presence and advertise its service on a local area network.
 
-Frameworks used: 
+- Frameworks used: 
 
-# iOS Development Courses / Swift
+# iOS Development Courses / Using Swift and UIKit
 
 List of courses I took to improve my knowledge and skills about iOS Development through a couple of years.
 
@@ -51,10 +51,13 @@ List of courses I took to improve my knowledge and skills about iOS Development 
 6. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode) (Apple course that teach you an introduction about ARKit)
 7. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) (Important chapter provided by Learn to Code in Swift book)
 8. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
+9. [ ] [CoreGraphics](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#8-core-graphics)
+10. [ ] [Protocols](https://github.com/c4arl0s/Swift-Protocols#swift-protocols---content)
+11. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
 
 Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech. 
 
-# iOS Development Courses / Objective-C 
+# iOS Development Courses / Using Objective-C 
 
 1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec) 
 2. [x] [Objective-C Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
@@ -64,9 +67,15 @@ Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion,
 
 Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVFoundation, Speech.
 
-# Algorithms
+# iOS Development Courses / SwiftUI
 
-Projects to implement Swift and Objective-C code that comes from the book [Introduction to Algorithms and Data Structures in Swift 4](https://books.apple.com/mx/book/introduction-to-algorithms-and-data-structures-in-swift-4/id1345964250?l=en), you can buy it on Book Store.
+1. [ ] [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#introducing-swiftui)
+
+# iOS Design Patterns on IOS wsing Swift
+
+1. [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)
+
+# Algorithms
 
 1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift) 
 2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 

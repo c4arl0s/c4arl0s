@@ -79,6 +79,8 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 
 1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift) 
 2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
+3. [ ] [Algorithms](https://github.com/c4arl0s/Algorithms#algorithms)
+5. [ ] [Introduction to Algorithms](https://github.com/c4arl0s/IntroductionToAlgorithms#introductiontoalgorithms)
 
 Frameworks used: QuartzCore. 
 

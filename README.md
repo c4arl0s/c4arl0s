@@ -7,7 +7,7 @@ List of apps I developed during diploma course and self-study time.
 1. [x] [Photorama](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#photorama-app). It makes a web service request to get photos.
 2. [x] [Restaurant](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#restaurant-app). Interactive restaurant menu that displays offerings, adds orders and sent order request.
 3. [x] [List](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp). Display, add, delete and save a list of tasks.
-4. [x] [Homepwner](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#homepwner-app) It keeps an inventory of all your possessions. It records name, serial number, value and a picture.
+4. [x] [Homepwner](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#homepwner-app) It keeps an inventory of all your possessions. It saves name, serial#, value and a picture.
 5. [x] [Hotel Manzana](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#hotel-manzana-app). This app allows you to register guests when they arrive.
 6. [x] [Personality Quiz](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz). This app is a silly game that is going to reflect part of your personality.
 7. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie). Word guessing game.
@@ -17,8 +17,8 @@ List of apps I developed during diploma course and self-study time.
 11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp). Project that shows a catalog of Steriflow products.
 12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab). User interface that shows you the power of Autolayout.
 
-- Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
-- iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action, 
+Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
+iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action, 
 
 # [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
@@ -30,14 +30,14 @@ List of apps I developed during self-study time.
 14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-nerdfeed-app). It reads the RSS feed from the Apple newsroom web service.
 15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-mediaplayer-app). Simple user interface to display a movie or video and audio.
 
-- Frameworks used: UIKit, CoreData. 
+Frameworks used: UIKit, CoreData. 
 
 # MacOS Applications / Objective-C / Cocoa
 
 1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#28-your-first-cocoa-application). Simple to-do list application that stores its data as a property list.
 2. [ ] [Cocoa Server App](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app). It creates a server to broadcast its presence and advertise its service on a local area network.
 
-- Frameworks used: 
+Frameworks used: 
 
 # iOS Development Courses / Using Swift and UIKit
 
@@ -51,8 +51,8 @@ List of courses I took to improve my knowledge and skills about iOS Development 
 6. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode) (Apple course that teach you an introduction about ARKit)
 7. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) (Important chapter provided by Learn to Code in Swift book)
 8. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
-9. [ ] [CoreGraphics](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#8-core-graphics)
-10. [ ] [Protocols](https://github.com/c4arl0s/Swift-Protocols#swift-protocols---content)
+9. [x] [CoreGraphics](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#8-core-graphics)
+10. [x] [Protocols](https://github.com/c4arl0s/Swift-Protocols#swift-protocols---content)
 11. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
 
 Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech. 
@@ -73,7 +73,7 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 
 # iOS Design Patterns on IOS wsing Swift
 
-1. [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)
+1. [ ] [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)
 
 # Algorithms
 

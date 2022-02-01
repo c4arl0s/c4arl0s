@@ -64,6 +64,8 @@ Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion,
 3. [ ] [Beginning Xcode](https://github.com/c4arl0s/BeginningXcodeContentIndex#beginning-xcode)
 4. [ ] [Using Speech Framework](https://github.com/c4arl0s/RecognizingSpeechInLiveAudio#recognizingspeechinliveaudio)
 5. [ ] [Grand Central Dispatch](https://github.com/c4arl0s/15GrandCentralDispatchBackgroundProcessingAndYou#15-grand-central-dispatch-background-processing-and-you---content)
+6. [x] [Frameworks, Libraries and Targets](https://github.com/c4arl0s/9FrameworksLibrariesAndTargets#frameworks-libraries-and-targets---content)
+
 
 Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVFoundation, Speech.
 

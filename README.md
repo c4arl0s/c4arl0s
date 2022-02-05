@@ -100,7 +100,7 @@ Lectures, notes, code and documentation about C programming language.
 
 List of scripts I wrote to speed up my developments
 
-1. [x] [Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndexScript#create-content-index-script)
+1. [x] [Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndex#create-content-index-script)
 2. [x] [Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
 3. [x] [VerifyStatusRepositoriesScript: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
 4. [x] [Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)

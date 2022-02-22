@@ -13,7 +13,7 @@ List of apps I developed during diploma course and self-study time.
 7. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie). Word guessing game.
 8. [x] [WorldTrotter](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-worldtrotter-app). This app converts values between degrees Fahrenheit and degrees Celsius.
 9. [x] [TouchTracker](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-touchtracker-app). An app that lets the user draw lines by touching the screen 
-10. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList#chronolist---content). List of tasks or activities placed in chronological order.
+10. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList-Presentation#chronolist-presentation). List of tasks or activities placed in chronological order.
 11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp). Project that shows a catalog of Steriflow products.
 12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab). User interface that shows you the power of Autolayout.
 
@@ -86,7 +86,7 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 
 Frameworks used: QuartzCore. 
 
-# C
+# C Programming Language Notes
 
 Lectures, notes, code and documentation about C programming language.
 
@@ -95,6 +95,15 @@ Lectures, notes, code and documentation about C programming language.
 3. [x] [Optimizing Program Performance with C](https://github.com/c4arl0s/ComputerSystemsAProgrammersPerspectiveContentIndex#5-optimizing-program-performance)
 2. [x] [Learn C on The Mac For OSX and iOS](https://github.com/c4arl0s/Learn_C_onTheMacForOSXandiOS#learn_c_onthemacforosxandios) 
 3. [ ] [Numerical Analysis With C Programming Language](https://github.com/c4arl0s/NumericalAnalysisWithCProgrammingLanguage#numerical-analysis-with-c-programming-language---content)
+
+# C programs
+
+1. [x] [search-price.c: It search a price of an item over a text file]()  
+2. [x] [fibonacci.c: it calculates first 20 numbers of fibonacci series]()
+3. [x] [c-to-f.c: It converts centigrades units to Farenheit units]()
+2. [x] [diodo.c: It calculates phase angle, Power Electronics]() 
+3. [x] [pparallel.c: Data adquisition project, using an old HP Pavilion Desktop computer]()
+3. [x] [Programming in C: List of c programs that I created in the old days](https://github.com/c4arl0s/ProgrammingInC#programming-in-c)
 
 # Bash Scripts
 

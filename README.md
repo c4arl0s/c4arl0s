@@ -100,13 +100,13 @@ Lectures, notes, code and documentation about C programming language.
 
 List of scripts I wrote to speed up my developments
 
-1. [x] [Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndex#create-content-index-script)
-2. [x] [Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
-3. [x] [VerifyStatusRepositoriesScript: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
-4. [x] [Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
-5. [x] [Add3: It was created in my student days to store english/spanish vocabulary](https://github.com/c4arl0s/Script-Add3)
-6. [x] [It was used back in my student days to retrieve english/spanish vocabulary](https://github.com/c4arl0s/DictEnEsScript)
-7. [x] [renameAllFilesScript: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
+1. [x] [CreateContentIndexScript.sh: Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndex#create-content-index-script)
+2. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
+3. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
+4. [x] [verifyStatus.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
+5. [x] [add3.sh: It was created in my student days to store english/spanish vocabulary](https://github.com/c4arl0s/Script-Add3)
+6. [x] [trad3.sh: It was used back in my student days to retrieve english/spanish vocabulary](https://github.com/c4arl0s/DictEnEsScript)
+7. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
 8. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
 
 # Version Control System - Git

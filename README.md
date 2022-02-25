@@ -5,10 +5,10 @@
 List of apps I developed during diploma course and self-study time.
 
 1. [x] [Photorama](https://github.com/c4arl0s/Photorama-App-Presentation#photorama-app). It makes a web service request to get photos.
-2. [x] [Restaurant](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#restaurant-app). Interactive restaurant menu that displays offerings, adds orders and sent order request.
-3. [x] [List](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project-list-todolistapp). Display, add, delete and save a list of tasks.
-4. [x] [Homepwner](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#homepwner-app) It keeps an inventory of all your possessions. It saves name, serial#, value and a picture.
-5. [x] [Hotel Manzana](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#hotel-manzana-app). This app allows you to register guests when they arrive.
+2. [x] [Restaurant](https://github.com/c4arl0s/Restaurant-App-Presentation#restaurant-app). Interactive restaurant menu that displays offerings, adds orders and sent order request.
+3. [x] [List](https://github.com/c4arl0s/List-App-Presentation#guided-project-list-todolistapp). Display, add, delete and save a list of tasks.
+4. [x] [Homepwner](https://github.com/c4arl0s/Homepwner-App-Presentation#homepwner-app) It keeps an inventory of all your possessions. It saves name, serial#, value and a picture.
+5. [x] [Hotel Manzana](https://github.com/c4arl0s/Hotel-Manzana-App-Presentation#hotel-manzana-app). This app allows you to register guests when they arrive.
 6. [x] [Personality Quiz](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz). This app is a silly game that is going to reflect part of your personality.
 7. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie). Word guessing game.
 8. [x] [WorldTrotter](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-worldtrotter-app). This app converts values between degrees Fahrenheit and degrees Celsius.

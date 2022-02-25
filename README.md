@@ -9,13 +9,13 @@ List of apps I developed during diploma course and self-study time.
 3. [x] [List](https://github.com/c4arl0s/List-App-Presentation#guided-project-list-todolistapp). Display, add, delete and save a list of tasks.
 4. [x] [Homepwner](https://github.com/c4arl0s/Homepwner-App-Presentation#homepwner-app) It keeps an inventory of all your possessions. It saves name, serial#, value and a picture.
 5. [x] [Hotel Manzana](https://github.com/c4arl0s/Hotel-Manzana-App-Presentation#hotel-manzana-app). This app allows you to register guests when they arrive.
-6. [x] [Personality Quiz](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#personality-quiz). This app is a silly game that is going to reflect part of your personality.
-7. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#guided-project--apple-pie). Word guessing game.
-8. [x] [WorldTrotter](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-worldtrotter-app). This app converts values between degrees Fahrenheit and degrees Celsius.
-9. [x] [TouchTracker](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#beginning-of-touchtracker-app). An app that lets the user draw lines by touching the screen 
-10. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList-Presentation#chronolist-presentation). List of tasks or activities placed in chronological order.
+6. [x] [Personality Quiz](https://github.com/c4arl0s/Personality-Quiz-Presentation#personality-quiz). This app is a silly game that is going to reflect part of your personality.
+7. [x] [Apple Pie (iPad)](https://github.com/c4arl0s/Apple-Pie-App-Presentation#apple-pie-app). Word guessing game.
+8. [x] [WorldTrotter](https://github.com/c4arl0s/WorldTrotter-App-Presentation#beginning-of-worldtrotter-app). This app converts values between degrees Fahrenheit and degrees Celsius.
+9. [x] [TouchTracker](https://github.com/c4arl0s/Touchtracker-App-Presentation#beginning-of-touchtracker-app). An app that lets the user draw lines by touching the screen 
+10. [ ] [Chronolist](https://github.com/c4arl0s/List-App-Presentation#guided-project-list-todolistapp). List of tasks or activities placed in chronological order.
 11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp). Project that shows a catalog of Steriflow products.
-12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#calculator---lab). User interface that shows you the power of Autolayout.
+12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/Calculator-UI-Presentation#lab-calculator---content). User interface that shows you the power of Autolayout.
 
 Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
 iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action, 

@@ -24,18 +24,18 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 List of apps I developed during self-study time.
 
-11. [x] [Hypnosister (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-hypnosister-app). Change and move concentric circles color with shake motion detection.
-12. [x] [Homepwner (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-homepwner-app). It keeps an inventory of all your possessions.
-13. [x] [TouchTracker (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-touchtracker-app). This application lets the user draw lines by dragging across the view.
-14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-nerdfeed-app). It reads the RSS feed from the Apple newsroom web service.
-15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-mediaplayer-app). Simple user interface to display a movie or video and audio.
+11. [x] [Hypnosister (iPhone, using MRC)](https://github.com/c4arl0s/Hypnosister-ObjectiveC-Presentation#hypnosister-app---objective-c). Change and move concentric circles color with shake motion detection.
+12. [x] [Homepwner (iPhone, using MRC)](https://github.com/c4arl0s/Homepwner-ObjectiveC-Presentation#homepwner-app---objective-c). It keeps an inventory of all your possessions.
+13. [x] [TouchTracker (iPhone, using MRC)](https://github.com/c4arl0s/Touchtracker-ObjectiveC-Presentation#touchtracker-app---objective-c). This application lets the user draw lines by dragging across the view.
+14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/Nerdfeed-ObjectiveC-Presentation#nerdfeed-app---objective-c). It reads the RSS feed from the Apple newsroom web service.
+15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/MediaPlayer-ObjectiveC-Presentation#media-playback---objective-c). Simple user interface to display a movie or video and audio.
 
 Frameworks used: UIKit, CoreData. 
 
 # MacOS Applications / Objective-C / Cocoa
 
-1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#28-your-first-cocoa-application). Simple to-do list application that stores its data as a property list.
-2. [ ] [Cocoa Server App](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#beginning-of-the-cocoaserver-app). It creates a server to broadcast its presence and advertise its service on a local area network.
+1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/TahDoodle-Desktop-Cocoa-ObjectiveC-Presentation#tahdoole-desktop---cocoa--objective-c). Simple to-do list application that stores its data as a property list.
+2. [ ] [Cocoa Server App](https://github.com/c4arl0s/Cocoa-Server-App-Presentation#cocoaserver-app---objective-c). It creates a server to broadcast its presence and advertise its service on a local area network.
 
 Frameworks used: 
 

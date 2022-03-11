@@ -73,9 +73,14 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 
 1. [ ] [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#introducing-swiftui)
 
-# iOS Design Patterns on IOS wsing Swift
+# iOS Design Patterns on iOS sing Swift
 
 1. [ ] [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)
+
+# Test Driven Development on iOS
+
+1. [ ] [iOS Code Testing](https://github.com/c4arl0s/iOS-Code-Testing#ios-code-testing)
+2. [ ] [Pro iOS Testing](https://github.com/c4arl0s/Pro-iOS-Testing#pro-ios-testing)
 
 # Algorithms
 
@@ -112,9 +117,9 @@ List of scripts I wrote to speed up my developments
 1. [x] [CreateContentIndexScript.sh: Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndex#create-content-index-script)
 2. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
 3. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
-4. [x] [verifyStatus.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
+4. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
 5. [x] [add3.sh: It was created in my student days to store english/spanish vocabulary](https://github.com/c4arl0s/Script-Add3)
-6. [x] [trad3.sh: It was used back in my student days to retrieve english/spanish vocabulary](https://github.com/c4arl0s/DictEnEsScript)
+6. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish vocabulary](https://github.com/c4arl0s/DictEnEsScript)
 7. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
 8. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
 

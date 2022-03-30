@@ -114,14 +114,15 @@ Lectures, notes, code and documentation about C programming language.
 
 List of scripts I wrote to speed up my developments
 
-1. [x] [CreateContentIndexScript.sh: Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndex#create-content-index-script)
-2. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
-3. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
-4. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
-5. [x] [add3.sh: It was created in my student days to store english/spanish vocabulary](https://github.com/c4arl0s/Script-Add3)
-6. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish vocabulary](https://github.com/c4arl0s/DictEnEsScript)
-7. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
-8. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
+1. [x] [git-add-user-interface-script: Uses a dialog box to add modified and untracked files to the staging area](https://github.com/c4arl0s/git-add-user-interface-script#git-add-user-interface-script)
+2. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/DictEnEsScript)
+3. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/DictEnEsScript)
+4. [x] [CreateContentIndexScript.sh: Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndex#create-content-index-script)
+5. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
+6. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
+7. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
+8. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
+9. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
 
 # Version Control System - Git
 

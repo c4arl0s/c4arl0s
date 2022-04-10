@@ -9,20 +9,22 @@
 7. [iOS Design Patterns on iOS sing Swift](https://github.com/c4arl0s#ios-design-patterns-on-ios-sing-swift)
 8. [Test Driven Development on iOS](https://github.com/c4arl0s#test-driven-development-on-ios)
 9. [Algorithms](https://github.com/c4arl0s#algorithms)
-10. [C Programming Language Notes](https://github.com/c4arl0s#c-programming-language-notes)
-11. [C programs](https://github.com/c4arl0s#c-programs)
-12. [Bash Scripts](https://github.com/c4arl0s#bash-scripts)
-13. [Version Control System - Git](https://github.com/c4arl0s#version-control-system---git)
-14. [Data Bases](https://github.com/c4arl0s#data-bases)
-15. [Utility](https://github.com/c4arl0s#utility)
-16. [Computer Systems](https://github.com/c4arl0s#computer-systems)
-17. [Microprocessors and MicroControllers](https://github.com/c4arl0s#microprocessors-and-microcontrollers)
-18. [Digital Signal Processing](https://github.com/c4arl0s#digital-signal-processing)
-19. [Integrated Circuits](https://github.com/c4arl0s#integrated-circuits)
-20. [Electronic Amplifiers](https://github.com/c4arl0s#electronic-amplifiers-notes)
-21. [Electronic Devices](https://github.com/c4arl0s#electronic-devices)
-22. [Analog Control](https://github.com/c4arl0s#analog-control)
-23. [Fuzzy Logic](https://github.com/c4arl0s#fuzzy-logic)
+10. [Tricks iOS development](https://github.com/c4arl0s#tricks-ios-development)
+11. [History](https://github.com/c4arl0s#history)
+12. [C Programming Language Notes](https://github.com/c4arl0s#c-programming-language-notes)
+13. [C programs](https://github.com/c4arl0s#c-programs)
+14. [Bash Scripts](https://github.com/c4arl0s#bash-scripts)
+15. [Version Control System - Git](https://github.com/c4arl0s#version-control-system---git)
+16. [Data Bases](https://github.com/c4arl0s#data-bases)
+17. [Utility](https://github.com/c4arl0s#utility)
+18. [Computer Systems](https://github.com/c4arl0s#computer-systems)
+19. [Microprocessors and MicroControllers](https://github.com/c4arl0s#microprocessors-and-microcontrollers)
+20. [Digital Signal Processing](https://github.com/c4arl0s#digital-signal-processing)
+21. [Integrated Circuits](https://github.com/c4arl0s#integrated-circuits)
+22. [Electronic Amplifiers](https://github.com/c4arl0s#electronic-amplifiers-notes)
+23. [Electronic Devices](https://github.com/c4arl0s#electronic-devices)
+24. [Analog Control](https://github.com/c4arl0s#analog-control)
+25. [Fuzzy Logic](https://github.com/c4arl0s#fuzzy-logic)
 
 # [iOS Apps using Swift/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
@@ -114,6 +116,10 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 5. [ ] [Introduction to Algorithms](https://github.com/c4arl0s/IntroductionToAlgorithms#introductiontoalgorithms)
 
 Frameworks used: QuartzCore. 
+# [Tricks iOS development](https://github.com/c4arl0s#main-projects)
+
+1. [shortcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
+2. [Building and running wirelessly](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#3-building-and-running-wirelessly)
 
 # [History](https://github.com/c4arl0s#main-projects)
 

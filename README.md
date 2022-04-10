@@ -17,7 +17,7 @@
 15. [Utility](https://github.com/c4arl0s#utility)
 16. [Computer Systems](https://github.com/c4arl0s#computer-systems)
 17. [Microprocessors and MicroControllers](https://github.com/c4arl0s#microprocessors-and-microcontrollers)
-18, [Digital Signal Processing](https://github.com/c4arl0s#digital-signal-processing)
+18. [Digital Signal Processing](https://github.com/c4arl0s#digital-signal-processing)
 19. [Integrated Circuits](https://github.com/c4arl0s#integrated-circuits)
 20. [Electronic Amplifiers](https://github.com/c4arl0s#electronic-amplifiers-notes)
 21. [Electronic Devices](https://github.com/c4arl0s#electronic-devices)
@@ -114,6 +114,10 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 5. [ ] [Introduction to Algorithms](https://github.com/c4arl0s/IntroductionToAlgorithms#introductiontoalgorithms)
 
 Frameworks used: QuartzCore. 
+
+# [History](https://github.com/c4arl0s#main-projects)
+
+<img width="1301" alt="Screen Shot 2022-04-10 at 11 56 10 a m" src="https://user-images.githubusercontent.com/24994818/162630747-5912c40d-5167-4fb1-ac42-8a7b49ddadb6.png">
 
 # [C Programming Language Notes](https://github.com/c4arl0s#main-projects)
 

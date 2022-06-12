@@ -1,8 +1,8 @@
 # Main Projects:
 
-1. [iOS Apps using Swift/UIKit](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
+1. [📲 iOS Apps using Swift/UIKit](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
 2. [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s#ios-apps-using-objective-cuikit)
-3. [MacOS Applications / Objective-C / Cocoa](https://github.com/c4arl0s#macos-applications--objective-c--cocoa)
+3. [💻 MacOS Applications / Objective-C / Cocoa](https://github.com/c4arl0s#macos-applications--objective-c--cocoa)
 4. [iOS Development Courses / Using Swift and UIKit](https://github.com/c4arl0s#ios-development-courses--using-swift-and-uikit)
 5. [iOS Development Courses / Using Objective-C](https://github.com/c4arl0s#ios-development-courses--using-objective-c)
 6. [iOS Development Courses / SwiftUI](https://github.com/c4arl0s#ios-development-courses--swiftui)
@@ -176,6 +176,8 @@ Lectures, code and documentation about data bases.
 2. [x] [VIM](https://github.com/c4arl0s/VIM#vim) 
 3. [ ] [Regular Expresions](https://github.com/c4arl0s/RegularExpressions#regular-expression---content) 
 4. [ ] [English Language](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
+5. [x] [Must-Have English Phrases for Online Meetings](https://github.com/c4arl0s/Must-Have-English-Phrases-for-Online-Meetings#must-have-english-phrases-for-online-meetings)
+6. [x] [10 Words to use right now at work in English](https://github.com/c4arl0s/10-Words-to-Use-Right-Now-at-Work-in-English#10-words-to-use-right-now-at-work-in-english)
 
 # [Computer Systems](https://github.com/c4arl0s#main-projects)
 

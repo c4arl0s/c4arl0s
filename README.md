@@ -1,30 +1,32 @@
 # Main Projects:
 
-1. [📲 iOS Apps using Swift/UIKit](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
-2. [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s#ios-apps-using-objective-cuikit)
-3. [💻 MacOS Applications / Objective-C / Cocoa](https://github.com/c4arl0s#macos-applications--objective-c--cocoa)
-4. [iOS Development Courses / Using Swift and UIKit](https://github.com/c4arl0s#ios-development-courses--using-swift-and-uikit)
-5. [iOS Development Courses / Using Objective-C](https://github.com/c4arl0s#ios-development-courses--using-objective-c)
-6. [iOS Development Courses / SwiftUI](https://github.com/c4arl0s#ios-development-courses--swiftui)
-7. [iOS Design Patterns on iOS sing Swift](https://github.com/c4arl0s#ios-design-patterns-on-ios-sing-swift)
-8. [Test Driven Development on iOS](https://github.com/c4arl0s#test-driven-development-on-ios)
-9. [Algorithms](https://github.com/c4arl0s#algorithms)
-10. [Tricks iOS development](https://github.com/c4arl0s#tricks-ios-development)
-11. [History](https://github.com/c4arl0s#history)
-12. [C Programming Language Notes](https://github.com/c4arl0s#c-programming-language-notes)
-13. [C programs](https://github.com/c4arl0s#c-programs)
-14. [Bash Scripts](https://github.com/c4arl0s#bash-scripts)
-15. [Version Control System - Git](https://github.com/c4arl0s#version-control-system---git)
-16. [Data Bases](https://github.com/c4arl0s#data-bases)
-17. [Utility](https://github.com/c4arl0s#utility)
-18. [Computer Systems](https://github.com/c4arl0s#computer-systems)
-19. [Microprocessors and MicroControllers](https://github.com/c4arl0s#microprocessors-and-microcontrollers)
-20. [Digital Signal Processing](https://github.com/c4arl0s#digital-signal-processing)
-21. [Integrated Circuits](https://github.com/c4arl0s#integrated-circuits)
-22. [Electronic Amplifiers](https://github.com/c4arl0s#electronic-amplifiers-notes)
-23. [Electronic Devices](https://github.com/c4arl0s#electronic-devices)
-24. [Analog Control](https://github.com/c4arl0s#analog-control)
-25. [Fuzzy Logic](https://github.com/c4arl0s#fuzzy-logic)
+1. [📲iOS Apps using Swift/UIKit](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
+2. [Swift](https://github.com/c4arl0s#swift)
+3. [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s#ios-apps-using-objective-cuikit)
+4. [Objective-C](https://github.com/c4arl0s#objective-c)
+5. [💻 MacOS Applications / Objective-C / Cocoa](https://github.com/c4arl0s#macos-applications--objective-c--cocoa)
+6. [iOS Development Courses / Using Swift and UIKit](https://github.com/c4arl0s#ios-development-courses--using-swift-and-uikit)
+7. [iOS Development Courses / Using Objective-C](https://github.com/c4arl0s#ios-development-courses--using-objective-c)
+8. [iOS Development Courses / SwiftUI](https://github.com/c4arl0s#ios-development-courses--swiftui)
+9. [iOS Design Patterns on iOS sing Swift](https://github.com/c4arl0s#ios-design-patterns-on-ios-sing-swift)
+10. [Test Driven Development on iOS](https://github.com/c4arl0s#test-driven-development-on-ios)
+11. [Algorithms](https://github.com/c4arl0s#algorithms)
+12. [Tricks iOS development](https://github.com/c4arl0s#tricks-ios-development)
+13. [History](https://github.com/c4arl0s#history)
+14. [C Programming Language Notes](https://github.com/c4arl0s#c-programming-language-notes)
+15. [C programs](https://github.com/c4arl0s#c-programs)
+16. [Bash Scripts](https://github.com/c4arl0s#bash-scripts)
+17. [Version Control System - Git](https://github.com/c4arl0s#version-control-system---git)
+18. [Data Bases](https://github.com/c4arl0s#data-bases)
+19. [Utility](https://github.com/c4arl0s#utility)
+20. [Computer Systems](https://github.com/c4arl0s#computer-systems)
+21. [Microprocessors and MicroControllers](https://github.com/c4arl0s#microprocessors-and-microcontrollers)
+22. [Digital Signal Processing](https://github.com/c4arl0s#digital-signal-processing)
+23. [Integrated Circuits](https://github.com/c4arl0s#integrated-circuits)
+24. [Electronic Amplifiers](https://github.com/c4arl0s#electronic-amplifiers-notes)
+25. [Electronic Devices](https://github.com/c4arl0s#electronic-devices)
+26. [Analog Control](https://github.com/c4arl0s#analog-control)
+27. [Fuzzy Logic](https://github.com/c4arl0s#fuzzy-logic)
 
 # [iOS Apps using Swift/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
@@ -46,6 +48,30 @@ List of apps I developed during diploma course and self-study time.
 Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
 iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action, 
 
+# [Swift](https://github.com/c4arl0s#main-projects)
+
+<img width="491" alt="Screen Shot 2022-07-02 at 12 41 22 p m" src="https://user-images.githubusercontent.com/24994818/177011338-dfac00e4-0af9-4749-809e-ae0b1952a574.png">
+
+1. [Introduction to Swift and Playgrounds](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#introduction-to-swift-and-playgrounds---content)
+2. [Constants, Variables and Data Types](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#constants-variables-and-data-types---content)
+3. [Operators](https://github.com/c4arl0s/Operators#operators---content)
+4. [Control Flow](https://github.com/c4arl0s/ControlFlow#controlflow---content)
+5. [Xcode](https://github.com/c4arl0s/Xcode#xcode---content)
+6. [Building, Running and Debugging an App](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#building-running-and-debugging-an-app---content)
+7. [Interface Builder Basics](https://github.com/c4arl0s/InterfaceBuilderBasics#interface-builder-basics---content)
+8. [Strings](https://github.com/c4arl0s/Strings#strings---content)
+9. [Functions](https://github.com/c4arl0s/Functions#functions---content)
+10. [Structures](https://github.com/c4arl0s/Structures#structures---content)
+11. [Classes, Inheritance](https://github.com/c4arl0s/ClassesAndInheritance#classes-and-inheritance---content)
+12. [Collections](https://github.com/c4arl0s/Collections#collections---content)
+13. [Loops](https://github.com/c4arl0s/Loops#loops---content)
+14. [Optionals](https://github.com/c4arl0s/Optionals#optionals---content)
+15. [Type Casting and Inspection](https://github.com/c4arl0s/TypeCastingAndInspection#2-type-casting-and-inspection---content)
+16. [Guard](https://github.com/c4arl0s/Guard#3-guard---content)
+17. [Enumerations](https://github.com/c4arl0s/Enumerations#enumerations---content)
+18. [Closures](https://github.com/c4arl0s/Closures#closures---content)
+19. [Extensions](https://github.com/c4arl0s/Extensions#extensions---content) 
+
 # [iOS Apps using Objective-C/UIKit](https://github.com/c4arl0s/c4arl0s/blob/main/PortfolioApps.pdf)
 
 List of apps I developed during self-study time.
@@ -57,6 +83,8 @@ List of apps I developed during self-study time.
 15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/MediaPlayer-ObjectiveC-Presentation#media-playback---objective-c). Simple user interface to display a movie or video and audio.
 
 Frameworks used: UIKit, CoreData. 
+
+# [Objective-C](https://github.com/c4arl0s#main-projects)
 
 # [MacOS Applications / Objective-C / Cocoa](https://github.com/c4arl0s#main-projects)
 
@@ -92,7 +120,6 @@ Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion,
 5. [ ] [Grand Central Dispatch](https://github.com/c4arl0s/15GrandCentralDispatchBackgroundProcessingAndYou#15-grand-central-dispatch-background-processing-and-you---content)
 6. [x] [Frameworks, Libraries and Targets](https://github.com/c4arl0s/9FrameworksLibrariesAndTargets#frameworks-libraries-and-targets---content)
 
-
 Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVFoundation, Speech.
 
 # [iOS Development Courses / SwiftUI](https://github.com/c4arl0s#main-projects)
@@ -116,6 +143,7 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 5. [ ] [Introduction to Algorithms](https://github.com/c4arl0s/IntroductionToAlgorithms#introductiontoalgorithms)
 
 Frameworks used: QuartzCore. 
+
 # [Tricks iOS development](https://github.com/c4arl0s#main-projects)
 
 1. [shortcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
@@ -161,7 +189,20 @@ List of scripts I wrote to speed up my developments
 
 # [Version Control System - Git](https://github.com/c4arl0s#main-projects)
 
-1. [x] [Git - Version Control System Tutorial Notes](https://github.com/c4arl0s/RysGitTutorial#rys-git-tutorial) 
+1. [x] [Introduction](https://github.com/c4arl0s/RysGitTutorialContentIndex#1-introduction)
+2. [x] [The basics](https://github.com/c4arl0s/RysGitTutorialContentIndex#2-the-basics)
+3. [x] [Undoing Changes](https://github.com/c4arl0s/RysGitTutorialContentIndex#3-undoing-changes-rys-git-tutorial)
+4. [x] [Branches I](https://github.com/c4arl0s/RysGitTutorialContentIndex#4-branches-i)
+5. [x] [Branches II](https://github.com/c4arl0s/RysGitTutorialContentIndex#5-branches-ii)
+6. [x] [Rebasing](https://github.com/c4arl0s/RysGitTutorialContentIndex#6-rebasing)	
+7. [x] [Rewriting History](https://github.com/c4arl0s/RysGitTutorialContentIndex#7-rewriting-history)
+8. [x] [Remotes](https://github.com/c4arl0s/RysGitTutorialContentIndex#8-remotes)
+9. [x] [Centralized Workflows](https://github.com/c4arl0s/RysGitTutorialContentIndex#9-centralized-workflows)
+10. [x] [Distributed Workflows](https://github.com/c4arl0s/RysGitTutorialContentIndex#10-distributed-workflows)
+11. [x] [Patch Workflows](https://github.com/c4arl0s/RysGitTutorialContentIndex#11-patch-workflows)
+12. [x] [Tips and Tricks](https://github.com/c4arl0s/RysGitTutorialContentIndex#12-tips-and-tricks)
+13. [x] [Plumbing](https://github.com/c4arl0s/RysGitTutorialContentIndex#13-plumbing)
+14. [x] [Summary git commands](https://github.com/c4arl0s/Summary-git-commands)
 
 # [Data Bases](https://github.com/c4arl0s#main-projects)
 

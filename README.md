@@ -69,6 +69,32 @@ Frameworks used: UIKit, CoreData.
 
 <details><summary>Objective-C</summary>
 
+
+1. [x] [1. Objects](https://github.com/c4arl0s/2ObjectiveC#1-objects)
+2. [x] [2. Using instances](https://github.com/c4arl0s/2ObjectiveC#2-using-instances)
+3. [x] [3. Creating objects](https://github.com/c4arl0s/2ObjectiveC#3-creating-objects)
+4. [x] [4. Sending messages](https://github.com/c4arl0s/2ObjectiveC#4-sending-messages)
+5. [x] [5. Destroying objects](https://github.com/c4arl0s/2ObjectiveC#5-destroying-objects)
+6. [x] [6. Writing the RandomPossession tool](https://github.com/c4arl0s/2ObjectiveC#6-writing-the-randompossession-tool)
+7. [x] [7. NSString](https://github.com/c4arl0s/2ObjectiveC#7-nsstring)
+8. [x] [8. NSArray and NSMutableArray](https://github.com/c4arl0s/2ObjectiveC#8-nsarray-and-nsmutablearray)
+9. [x] [9. Subclassing an Objective-C class](https://github.com/c4arl0s/2ObjectiveC#9-subclassing-an-objective-c-class)
+10. [x] [10. Instance variables](https://github.com/c4arl0s/2ObjectiveC#10-instance-variables)
+11. [x] [11. Accessor methods](https://github.com/c4arl0s/2ObjectiveC#11-accessor-methods)
+12. [x] [12. Instance methods](https://github.com/c4arl0s/2ObjectiveC#12-instance-methods)
+13. [x] [13. Initiazers](https://github.com/c4arl0s/2ObjectiveC#13-initiazers)
+14. [x] [14. id](https://github.com/c4arl0s/2ObjectiveC#14-id)
+15. [x] [15. isa](https://github.com/c4arl0s/2ObjectiveC#15-isa)
+16. [x] [16. Implementing the designated initializer](https://github.com/c4arl0s/2ObjectiveC#16-implementing-the-designated-initializer)
+17. [x] [17. self](https://github.com/c4arl0s/2ObjectiveC#17-self)
+18. [x] [18. super](https://github.com/c4arl0s/2ObjectiveC#18-super)
+19. [x] [19. Other initializer and the initializer chain](https://github.com/c4arl0s/2ObjectiveC#19-other-initializer-and-the-initializer-chain)
+20. [x] [20. class methods](https://github.com/c4arl0s/2ObjectiveC#20-class-methods)
+21. [x] [21. Testing your subclass](https://github.com/c4arl0s/2ObjectiveC#21-testing-your-subclass)
+22. [x] [22. Exceptions and the console window](https://github.com/c4arl0s/2ObjectiveC#22-exceptions-and-the-console-window)
+23. [x] [23. Fast enumeration](https://github.com/c4arl0s/2ObjectiveC#23-fast-enumeration)
+24. [x] [24. Challenge](https://github.com/c4arl0s/2ObjectiveC#24-challenge)
+
 </p>
 </details>
 

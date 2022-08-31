@@ -1,5 +1,9 @@
 # Main Projects:
 
+If you want to contribute send me an email: c.santiago.cruz@icloud.com
+
+# Apps
+
 <details><summary>iOS Apps using Swift/UIKit</summary>
 <p>
 
@@ -24,34 +28,6 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </p>
 </details>
 
-<details><summary>Swift</summary>
-<p>
-
-<img width="491" alt="Screen Shot 2022-07-02 at 12 41 22 p m" src="https://user-images.githubusercontent.com/24994818/177011338-dfac00e4-0af9-4749-809e-ae0b1952a574.png">
-
-1. [Introduction to Swift and Playgrounds](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#introduction-to-swift-and-playgrounds---content)
-2. [Constants, Variables and Data Types](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#constants-variables-and-data-types---content)
-3. [Operators](https://github.com/c4arl0s/Operators#operators---content)
-4. [Control Flow](https://github.com/c4arl0s/ControlFlow#controlflow---content)
-5. [Xcode](https://github.com/c4arl0s/Xcode#xcode---content)
-6. [Building, Running and Debugging an App](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#building-running-and-debugging-an-app---content)
-7. [Interface Builder Basics](https://github.com/c4arl0s/InterfaceBuilderBasics#interface-builder-basics---content)
-8. [Strings](https://github.com/c4arl0s/Strings#strings---content)
-9. [Functions](https://github.com/c4arl0s/Functions#functions---content)
-10. [Structures](https://github.com/c4arl0s/Structures#structures---content)
-11. [Classes, Inheritance](https://github.com/c4arl0s/ClassesAndInheritance#classes-and-inheritance---content)
-12. [Collections](https://github.com/c4arl0s/Collections#collections---content)
-13. [Loops](https://github.com/c4arl0s/Loops#loops---content)
-14. [Optionals](https://github.com/c4arl0s/Optionals#optionals---content)
-15. [Type Casting and Inspection](https://github.com/c4arl0s/TypeCastingAndInspection#2-type-casting-and-inspection---content)
-16. [Guard](https://github.com/c4arl0s/Guard#3-guard---content)
-17. [Enumerations](https://github.com/c4arl0s/Enumerations#enumerations---content)
-18. [Closures](https://github.com/c4arl0s/Closures#closures---content)
-19. [Extensions](https://github.com/c4arl0s/Extensions#extensions---content) 
-
-</p>
-</details>
-
 <details><summary>iOS Apps using Objective-C/UIKit</summary>
 
 List of apps I developed during self-study time.
@@ -63,37 +39,6 @@ List of apps I developed during self-study time.
 15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/MediaPlayer-ObjectiveC-Presentation#media-playback---objective-c). Simple user interface to display a movie or video and audio.
 
 Frameworks used: UIKit, CoreData. 
-
-</p>
-</details>
-
-<details><summary>Objective-C</summary>
-
-
-1. [x] [1. Objects](https://github.com/c4arl0s/2ObjectiveC#1-objects)
-2. [x] [2. Using instances](https://github.com/c4arl0s/2ObjectiveC#2-using-instances)
-3. [x] [3. Creating objects](https://github.com/c4arl0s/2ObjectiveC#3-creating-objects)
-4. [x] [4. Sending messages](https://github.com/c4arl0s/2ObjectiveC#4-sending-messages)
-5. [x] [5. Destroying objects](https://github.com/c4arl0s/2ObjectiveC#5-destroying-objects)
-6. [x] [6. Writing the RandomPossession tool](https://github.com/c4arl0s/2ObjectiveC#6-writing-the-randompossession-tool)
-7. [x] [7. NSString](https://github.com/c4arl0s/2ObjectiveC#7-nsstring)
-8. [x] [8. NSArray and NSMutableArray](https://github.com/c4arl0s/2ObjectiveC#8-nsarray-and-nsmutablearray)
-9. [x] [9. Subclassing an Objective-C class](https://github.com/c4arl0s/2ObjectiveC#9-subclassing-an-objective-c-class)
-10. [x] [10. Instance variables](https://github.com/c4arl0s/2ObjectiveC#10-instance-variables)
-11. [x] [11. Accessor methods](https://github.com/c4arl0s/2ObjectiveC#11-accessor-methods)
-12. [x] [12. Instance methods](https://github.com/c4arl0s/2ObjectiveC#12-instance-methods)
-13. [x] [13. Initiazers](https://github.com/c4arl0s/2ObjectiveC#13-initiazers)
-14. [x] [14. id](https://github.com/c4arl0s/2ObjectiveC#14-id)
-15. [x] [15. isa](https://github.com/c4arl0s/2ObjectiveC#15-isa)
-16. [x] [16. Implementing the designated initializer](https://github.com/c4arl0s/2ObjectiveC#16-implementing-the-designated-initializer)
-17. [x] [17. self](https://github.com/c4arl0s/2ObjectiveC#17-self)
-18. [x] [18. super](https://github.com/c4arl0s/2ObjectiveC#18-super)
-19. [x] [19. Other initializer and the initializer chain](https://github.com/c4arl0s/2ObjectiveC#19-other-initializer-and-the-initializer-chain)
-20. [x] [20. class methods](https://github.com/c4arl0s/2ObjectiveC#20-class-methods)
-21. [x] [21. Testing your subclass](https://github.com/c4arl0s/2ObjectiveC#21-testing-your-subclass)
-22. [x] [22. Exceptions and the console window](https://github.com/c4arl0s/2ObjectiveC#22-exceptions-and-the-console-window)
-23. [x] [23. Fast enumeration](https://github.com/c4arl0s/2ObjectiveC#23-fast-enumeration)
-24. [x] [24. Challenge](https://github.com/c4arl0s/2ObjectiveC#24-challenge)
 
 </p>
 </details>
@@ -110,26 +55,41 @@ Frameworks used:
 </p>
 </details>
 
-<details><summary>iOS Development Courses / Using Swift and UIKit</summary>
+# Diploma Courses
 
-# [iOS Development Courses / Using Swift and UIKit](https://github.com/c4arl0s#main-projects)
+<details><summary>Mobile Application Development Diploma Course / UNAM 2018, 240 hours</summary>
+
+Diploma Course at iOS Development Lab, UNAM, 2018
+
+1. [x] [Mobile Application Development Diploma Course - UNAM 2018, 240 hours](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
+</p>
+</details>
+<details><summary>Advanced iOS and Android Development Diploma Course / UNAM DGTIC 2022, 240 hours</summary>
+
+Diploma Course at DGTIC UNAM 
+
+1. [x] [Advanced iOS and Android Development Diploma Course - UNAM DGTIC 2022, 240 hours](https://github.com/c4arl0s/Advanced-iOS-and-Android-Development-Diploma-Course)
+</p>
+</details>
+
+# Courses
+
+<details><summary>iOS Development Courses / Using Swift and UIKit</summary>
 
 List of courses I took to improve my knowledge and skills about iOS Development through a couple of years.
 
-1. [x] [App Development with Swift](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) (Diploma Course at iOS Development Lab, UNAM, 2018) 
-2. [x] [iOS Programming with Swift](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift) (BNR course provided by iOS instructors to improve skills)
-3. [x] [Practical Autolayout](https://github.com/c4arl0s/PracticalAutoLayoutXcode8#practical-autolayout---xcode-8) (Interesting book about how to demystify Autolayout)
-4. [x] [Learn to Code in Swift](https://github.com/c4arl0s/LearnToCodeInSwift4#learn-to-code-in-swift-4---content) (Interesting way to teach Swift using iOS projects created by the author, It is a must)
-5. [x] [Apple iOS Swift Unit Testing](https://github.com/c4arl0s/LearnAppleiOSSwiftUnitTesting#learn-apple-ios-swift-unit-testing---content) (First approach)
-6. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode) (Apple course that teach you an introduction about ARKit)
-7. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) (Important chapter provided by Learn to Code in Swift book)
-8. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
-9. [x] [CoreGraphics](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#8-core-graphics)
-10. [x] [Protocols](https://github.com/c4arl0s/Swift-Protocols#swift-protocols---content)
-11. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
+1. [x] [iOS Programming with Swift](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift) (BNR course provided by iOS instructors to improve skills)
+2. [x] [Practical Autolayout](https://github.com/c4arl0s/PracticalAutoLayoutXcode8#practical-autolayout---xcode-8) (Interesting book about how to demystify Autolayout)
+3. [x] [Learn to Code in Swift](https://github.com/c4arl0s/LearnToCodeInSwift4#learn-to-code-in-swift-4---content) (Interesting way to teach Swift using iOS projects created by the author, It is a must)
+4. [x] [Apple iOS Swift Unit Testing](https://github.com/c4arl0s/LearnAppleiOSSwiftUnitTesting#learn-apple-ios-swift-unit-testing---content) (First approach)
+5. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode) (Apple course that teach you an introduction about ARKit)
+6. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) (Important chapter provided by Learn to Code in Swift book)
+7. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
+8. [x] [CoreGraphics](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#8-core-graphics)
+9. [x] [Protocols](https://github.com/c4arl0s/Swift-Protocols#swift-protocols---content)
+10. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
 
 Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech. 
-
 </p>
 </details>
 
@@ -145,7 +105,6 @@ Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion,
 6. [x] [Frameworks, Libraries and Targets](https://github.com/c4arl0s/9FrameworksLibrariesAndTargets#frameworks-libraries-and-targets---content)
 
 Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVFoundation, Speech.
-
 </p>
 </details>
 
@@ -177,45 +136,83 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 </p>
 </details>
 
-<details><summary>UML And Object Oriented Design Foundations</summary>
+# Skills / Programming Languages / notes
 
-# [UML And Object Oriented Design Foundations](https://github.com/c4arl0s/UML-And-Object-Oriented-Design-Foundations-Presentation#uml-and-object-oriented-design-foundations---content)
+<details><summary>Swift</summary>
+<p>
 
-1. [ ] [UML And Object Oriented Design Foundations](https://github.com/c4arl0s/UML-And-Object-Oriented-Design-Foundations-Presentation#uml-and-object-oriented-design-foundations---content)
+<img width="491" alt="Screen Shot 2022-07-02 at 12 41 22 p m" src="https://user-images.githubusercontent.com/24994818/177011338-dfac00e4-0af9-4749-809e-ae0b1952a574.png">
 
-</p>
-</details>
-
-
-<details><summary>Algorithms</summary>
-
-# [Algorithms](https://github.com/c4arl0s#main-projects)
-
-1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift) 
-2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
-3. [ ] [Algorithms](https://github.com/c4arl0s/Algorithms#algorithms)
-5. [ ] [Introduction to Algorithms](https://github.com/c4arl0s/IntroductionToAlgorithms#introductiontoalgorithms)
-
-Frameworks used: QuartzCore. 
-
-</p>
-</details>
-
-<details><summary>Tricks iOS development</summary>
-
-# [Tricks iOS development](https://github.com/c4arl0s#main-projects)
-
-1. [shortcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
-2. [Building and running wirelessly](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#3-building-and-running-wirelessly)
+1. [Introduction to Swift and Playgrounds](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#introduction-to-swift-and-playgrounds---content)
+2. [Constants, Variables and Data Types](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#constants-variables-and-data-types---content)
+3. [Operators](https://github.com/c4arl0s/Operators#operators---content)
+4. [Control Flow](https://github.com/c4arl0s/ControlFlow#controlflow---content)
+5. [Xcode](https://github.com/c4arl0s/Xcode#xcode---content)
+6. [Building, Running and Debugging an App](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#building-running-and-debugging-an-app---content)
+7. [Interface Builder Basics](https://github.com/c4arl0s/InterfaceBuilderBasics#interface-builder-basics---content)
+8. [Strings](https://github.com/c4arl0s/Strings#strings---content)
+9. [Functions](https://github.com/c4arl0s/Functions#functions---content)
+10. [Structures](https://github.com/c4arl0s/Structures#structures---content)
+11. [Classes, Inheritance](https://github.com/c4arl0s/ClassesAndInheritance#classes-and-inheritance---content)
+12. [Collections](https://github.com/c4arl0s/Collections#collections---content)
+13. [Loops](https://github.com/c4arl0s/Loops#loops---content)
+14. [Optionals](https://github.com/c4arl0s/Optionals#optionals---content)
+15. [Type Casting and Inspection](https://github.com/c4arl0s/TypeCastingAndInspection#2-type-casting-and-inspection---content)
+16. [Guard](https://github.com/c4arl0s/Guard#3-guard---content)
+17. [Enumerations](https://github.com/c4arl0s/Enumerations#enumerations---content)
+18. [Closures](https://github.com/c4arl0s/Closures#closures---content)
+19. [Extensions](https://github.com/c4arl0s/Extensions#extensions---content) 
 
 </p>
 </details>
 
-<details><summary>History</summary>
 
-# [History](https://github.com/c4arl0s#main-projects)
+<details><summary>Objective-C</summary>
 
-<img width="1301" alt="Screen Shot 2022-04-10 at 11 56 10 a m" src="https://user-images.githubusercontent.com/24994818/162630747-5912c40d-5167-4fb1-ac42-8a7b49ddadb6.png">
+1. [x] [1. Objects](https://github.com/c4arl0s/2ObjectiveC#1-objects)
+2. [x] [2. Using instances](https://github.com/c4arl0s/2ObjectiveC#2-using-instances)
+3. [x] [3. Creating objects](https://github.com/c4arl0s/2ObjectiveC#3-creating-objects)
+4. [x] [4. Sending messages](https://github.com/c4arl0s/2ObjectiveC#4-sending-messages)
+5. [x] [5. Destroying objects](https://github.com/c4arl0s/2ObjectiveC#5-destroying-objects)
+6. [x] [6. Writing the RandomPossession tool](https://github.com/c4arl0s/2ObjectiveC#6-writing-the-randompossession-tool)
+7. [x] [7. NSString](https://github.com/c4arl0s/2ObjectiveC#7-nsstring)
+8. [x] [8. NSArray and NSMutableArray](https://github.com/c4arl0s/2ObjectiveC#8-nsarray-and-nsmutablearray)
+9. [x] [9. Subclassing an Objective-C class](https://github.com/c4arl0s/2ObjectiveC#9-subclassing-an-objective-c-class)
+10. [x] [10. Instance variables](https://github.com/c4arl0s/2ObjectiveC#10-instance-variables)
+11. [x] [11. Accessor methods](https://github.com/c4arl0s/2ObjectiveC#11-accessor-methods)
+12. [x] [12. Instance methods](https://github.com/c4arl0s/2ObjectiveC#12-instance-methods)
+13. [x] [13. Initiazers](https://github.com/c4arl0s/2ObjectiveC#13-initiazers)
+14. [x] [14. id](https://github.com/c4arl0s/2ObjectiveC#14-id)
+15. [x] [15. isa](https://github.com/c4arl0s/2ObjectiveC#15-isa)
+16. [x] [16. Implementing the designated initializer](https://github.com/c4arl0s/2ObjectiveC#16-implementing-the-designated-initializer)
+17. [x] [17. self](https://github.com/c4arl0s/2ObjectiveC#17-self)
+18. [x] [18. super](https://github.com/c4arl0s/2ObjectiveC#18-super)
+19. [x] [19. Other initializer and the initializer chain](https://github.com/c4arl0s/2ObjectiveC#19-other-initializer-and-the-initializer-chain)
+20. [x] [20. class methods](https://github.com/c4arl0s/2ObjectiveC#20-class-methods)
+21. [x] [21. Testing your subclass](https://github.com/c4arl0s/2ObjectiveC#21-testing-your-subclass)
+22. [x] [22. Exceptions and the console window](https://github.com/c4arl0s/2ObjectiveC#22-exceptions-and-the-console-window)
+23. [x] [23. Fast enumeration](https://github.com/c4arl0s/2ObjectiveC#23-fast-enumeration)
+24. [x] [24. Challenge](https://github.com/c4arl0s/2ObjectiveC#24-challenge)
+
+</p>
+</details>
+
+<details><summary>Bash Scripts</summary>
+
+# [Bash Scripts](https://github.com/c4arl0s#main-projects)
+
+List of scripts I wrote to speed up my developments
+
+1. [x] [git-restore-ui.sh: It uses a dialog box to restore files that are located in staged area](https://github.com/c4arl0s/git-restore-user-interface-script#git-restore-user-interface-script)
+2. [x] [git-add-ui.sh: It uses a dialog box to add modified and untracked files to the staged area](https://github.com/c4arl0s/git-add-user-interface-script#git-add-user-interface-script)
+3. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/DictEnEsScript)
+4. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/DictEnEsScript)
+5. [x] [CreateContentIndexScript.sh: Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndex#create-content-index-script)
+6. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
+7. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
+8. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
+9. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
+10. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
 
 </p>
 </details>
@@ -249,25 +246,33 @@ Lectures, notes, code and documentation about C programming language.
 </p>
 </details>
 
-<details><summary>Bash Scripts</summary>
+# Object-Oriented Concepts
 
-# [Bash Scripts](https://github.com/c4arl0s#main-projects)
+<details><summary>UML And Object Oriented Design Foundations</summary>
 
-List of scripts I wrote to speed up my developments
+# [UML And Object Oriented Design Foundations](https://github.com/c4arl0s/UML-And-Object-Oriented-Design-Foundations-Presentation#uml-and-object-oriented-design-foundations---content)
 
-1. [x] [git-restore-ui.sh: It uses a dialog box to restore files that are located in staged area](https://github.com/c4arl0s/git-restore-user-interface-script#git-restore-user-interface-script)
-2. [x] [git-add-ui.sh: It uses a dialog box to add modified and untracked files to the staged area](https://github.com/c4arl0s/git-add-user-interface-script#git-add-user-interface-script)
-3. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/DictEnEsScript)
-4. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/DictEnEsScript)
-5. [x] [CreateContentIndexScript.sh: Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndex#create-content-index-script)
-6. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
-7. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
-8. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
-9. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
-10. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
+1. [ ] [UML And Object Oriented Design Foundations](https://github.com/c4arl0s/UML-And-Object-Oriented-Design-Foundations-Presentation#uml-and-object-oriented-design-foundations---content)
 
 </p>
 </details>
+
+# Databases
+
+<details><summary>Data Bases</summary>
+
+# [Data Bases](https://github.com/c4arl0s#main-projects)
+
+Lectures, code and documentation about data bases.
+
+1. [x] [SQLite For Mobil Apps Simplified](https://github.com/c4arl0s/SQLiteForMobileAppsSimplified#sqlite3_notes) 
+2. [ ] [Designing Data Intensive Applications](https://github.com/c4arl0s/DesigningDataIntensiveApplications#designing-data-intensive-applications) 
+3. [x] [Introducing SQLite for Mobile Developers](https://github.com/c4arl0s/SQLiteForMobilDevelopers#sqliteformobildevelopers) 
+
+</p>
+</details>
+
+# Version Control System
 
 <details><summary>Version Control System - Git</summary>
 
@@ -291,15 +296,37 @@ List of scripts I wrote to speed up my developments
 </p>
 </details>
 
-<details><summary>Data Bases</summary>
+# Algorithms
 
-# [Data Bases](https://github.com/c4arl0s#main-projects)
+<details><summary>Algorithms</summary>
 
-Lectures, code and documentation about data bases.
+# [Algorithms](https://github.com/c4arl0s#main-projects)
 
-1. [x] [SQLite For Mobil Apps Simplified](https://github.com/c4arl0s/SQLiteForMobileAppsSimplified#sqlite3_notes) 
-2. [ ] [Designing Data Intensive Applications](https://github.com/c4arl0s/DesigningDataIntensiveApplications#designing-data-intensive-applications) 
-3. [x] [Introducing SQLite for Mobile Developers](https://github.com/c4arl0s/SQLiteForMobilDevelopers#sqliteformobildevelopers) 
+1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift) 
+2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
+3. [ ] [Algorithms](https://github.com/c4arl0s/Algorithms#algorithms)
+5. [ ] [Introduction to Algorithms](https://github.com/c4arl0s/IntroductionToAlgorithms#introductiontoalgorithms)
+
+Frameworks used: QuartzCore. 
+
+</p>
+</details>
+
+<details><summary>Tricks iOS development</summary>
+
+# [Tricks iOS development](https://github.com/c4arl0s#main-projects)
+
+1. [shortcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
+2. [Building and running wirelessly](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#3-building-and-running-wirelessly)
+
+</p>
+</details>
+
+<details><summary>History</summary>
+
+# [History](https://github.com/c4arl0s#main-projects)
+
+<img width="1301" alt="Screen Shot 2022-04-10 at 11 56 10 a m" src="https://user-images.githubusercontent.com/24994818/162630747-5912c40d-5167-4fb1-ac42-8a7b49ddadb6.png">
 
 </p>
 </details>

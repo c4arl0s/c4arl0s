@@ -177,6 +177,16 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 </p>
 </details>
 
+<details><summary>UML And Object Oriented Design Foundations</summary>
+
+# [UML And Object Oriented Design Foundations](https://github.com/c4arl0s/UML-And-Object-Oriented-Design-Foundations-Presentation#uml-and-object-oriented-design-foundations---content)
+
+1. [ ] [UML And Object Oriented Design Foundations](https://github.com/c4arl0s/UML-And-Object-Oriented-Design-Foundations-Presentation#uml-and-object-oriented-design-foundations---content)
+
+</p>
+</details>
+
+
 <details><summary>Algorithms</summary>
 
 # [Algorithms](https://github.com/c4arl0s#main-projects)

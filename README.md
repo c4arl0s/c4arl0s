@@ -361,6 +361,21 @@ Notes about computer systems engineering from programming perspective.
 </p>
 </details>
 
+# Operating Systems
+
+<details><summary>Operating Systems</summary>
+
+### [Unix](https://github.com/c4arl0s/Unix#bashcheatsheet)
+
+Notes about unix.
+
+1. [x] [Unix](https://github.com/c4arl0s/Unix#bashcheatsheet) 
+
+</p>
+</details>
+
+# Microprocessors and Microcontrollers
+
 <details><summary>Microprocessors and MicroControllers</summary>
 
 ### [Microprocessors and MicroControllers](https://github.com/c4arl0s#main-projects)

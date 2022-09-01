@@ -117,12 +117,24 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 </p>
 </details>
 
-<details><summary>iOS Design Patterns on iOS sing Swift</summary>
+<details><summary>iOS Design Patterns on iOS</summary>
 
-### [iOS Design Patterns on iOS sing Swift](https://github.com/c4arl0s#main-projects)
+### [iOS Design Patterns on iOS](https://github.com/c4arl0s#main-projects)
 
-1. [ ] [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)
+1. [x] [The Model-View-ViewModel Architectural Pattern](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#--the-model-view-viewmodel-architectural-pattern)
+2. [ ] [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)
 
+<img width="449" alt="Screen Shot 2022-09-01 at 1 39 32 a m" src="https://user-images.githubusercontent.com/24994818/187848385-19f517ed-f362-4754-a0e8-6ad3567f1f8c.png">
+
+<img width="453" alt="Screen Shot 2022-09-01 at 1 40 45 a m" src="https://user-images.githubusercontent.com/24994818/187848582-a70c893b-7c71-4234-b074-2a5114945654.png">
+
+<img width="524" alt="Screen Shot 2022-09-01 at 1 23 55 a m" src="https://user-images.githubusercontent.com/24994818/187845992-20c85360-96d8-44da-821c-2a3eff6deee1.png">
+
+<img width="629" alt="Screen Shot 2022-09-01 at 1 17 09 a m" src="https://user-images.githubusercontent.com/24994818/187845112-58132134-54cd-41d3-bf98-db4c339276e0.png">
+
+<img width="626" alt="Screen Shot 2022-09-01 at 1 16 53 a m" src="https://user-images.githubusercontent.com/24994818/187845125-0e943a1b-cadb-4f52-9c86-080d27ddfe72.png">
+
+<img width="626" alt="Screen Shot 2022-09-01 at 1 31 26 a m" src="https://user-images.githubusercontent.com/24994818/187847137-8effefc5-953f-4f13-a66d-359bf8488a01.png">
 </p>
 </details>
 

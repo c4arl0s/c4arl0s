@@ -343,6 +343,8 @@ Frameworks used: QuartzCore.
 </p>
 </details>
 
+# Computer Systems
+
 <details><summary>Computer Systems</summary>
 
 ### [Computer Systems](https://github.com/c4arl0s#main-projects)
@@ -351,6 +353,10 @@ Notes about computer systems engineering from programming perspective.
 
 1. [x] [Computer Systems - A Programmers Perspective](https://github.com/c4arl0s/ComputerSystems_aProgrammersPerspective#computer-systems---a-programmers-perspective) 
 2. [x] [Computer Organization and Design Fundamentals](https://github.com/c4arl0s/ComputerOrganization-DesignFundamentals#computer-organization-and-design-fundamentals) 
+
+<img width="499" alt="Concurrency" src="https://user-images.githubusercontent.com/24994818/187840751-d72c4d3c-d723-4267-98b3-e8b37f5a46fd.png">
+
+<img width="488" alt="Paralellism" src="https://user-images.githubusercontent.com/24994818/187840796-a3d589f8-3db1-48e1-ab90-7db7991cd097.png">
 
 </p>
 </details>

@@ -366,7 +366,17 @@ Notes about computer systems engineering from programming perspective.
 1. [x] [Computer Systems - A Programmers Perspective](https://github.com/c4arl0s/ComputerSystems_aProgrammersPerspective#computer-systems---a-programmers-perspective) 
 2. [x] [Computer Organization and Design Fundamentals](https://github.com/c4arl0s/ComputerOrganization-DesignFundamentals#computer-organization-and-design-fundamentals) 
 
+### Concurrency
+
+Concurrency is a mechanism that decreases the response time of the system by using a single process unit. 
+
+In Concurrency, a major task is divided into subtask that execute simultaneously but not at the same time. A good example of concurrency is having multiple applications, like a Chrome browser, a video editor, and iTunes running at the same time in an operating system. 
+
 <img width="499" alt="Concurrency" src="https://user-images.githubusercontent.com/24994818/187840751-d72c4d3c-d723-4267-98b3-e8b37f5a46fd.png">
+
+### Parallelism
+
+Parallelism is a mechanism that increases computational speed by using multiple processors. In parallelism, tasks execute simultaneously and at the same time. A good example of parallelism is running a video editor that has many task to perform simultaneoulsy.
 
 <img width="488" alt="Paralellism" src="https://user-images.githubusercontent.com/24994818/187840796-a3d589f8-3db1-48e1-ab90-7db7991cd097.png">
 

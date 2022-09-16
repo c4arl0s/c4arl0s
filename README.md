@@ -334,15 +334,33 @@ Version Control System - Git:
 
 Algorithms:
 
-1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift) 
+1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#ilgorithms-and-data-structures-in-swift) 
+     - [x] [Basic Sorting](https://github.com/c4arl0s/7BasicSortingAADSSwift#7-basic-sorting)
+         - [x] [Selection Sort](https://github.com/c4arl0s/7BasicSortingAADSSwift#-selection-sort)
+         - [x] [Insertion Sort](https://github.com/c4arl0s/7BasicSortingAADSSwift#-insertion-sort)
+         - [x] [Bubble Sort](https://github.com/c4arl0s/7BasicSortingAADSSwift#-bubble-sort)
+     - [x] [Advanced Sorting](https://github.com/c4arl0s/8AdvanceSortingAADSSwift#8-advance-sorting)
+         - [x] [Merge Sort](https://github.com/c4arl0s/8AdvanceSortingAADSSwift#1-the-merge-sort)
+         - [x] [Quick Sort](https://github.com/c4arl0s/8AdvanceSortingAADSSwift#2-quicksort)
 2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
-3. [ ] [Algorithms](https://github.com/c4arl0s/Algorithms#algorithms)
-5. [ ] [Introduction to Algorithms](https://github.com/c4arl0s/IntroductionToAlgorithms#introductiontoalgorithms)
+     - [x] [Basic Sorting](https://github.com/c4arl0s/7BasicSortingInObjectiveC#7-basic-sorting-in-objective-c)
+         - [x] [Selection Sort](https://github.com/c4arl0s/7BasicSortingInObjectiveC#1-selection-sort)
+         - [x] [Insertion Sort](https://github.com/c4arl0s/7BasicSortingInObjectiveC#2-insertion-sort)
+         - [x] [Bubble Sort](https://github.com/c4arl0s/7BasicSortingInObjectiveC#4-bubble-sort)
+     - [x] [Advanced Sorting](https://github.com/c4arl0s/8AdvanceSortingInObjectiveC#8-advance-sorting-in-objective-c)
+         - [x] [Merge Sort](https://github.com/c4arl0s/8AdvanceSortingInObjectiveC#1-the-merge-sort)
+         - [x] [Quick Sort](https://github.com/c4arl0s/8AdvanceSortingInObjectiveC#2-quicksort)
+5. [ ] Graph Algorithms
+     - [ ] Sequential Graph Algorithms
+     - [ ] Parallel Graph Algorithms
+     - [ ] Distributed Graph Algorithms 
 
 Frameworks used: QuartzCore. 
 
 </p>
 </details>
+
+# Tricks iOS development
 
 <details><summary>Tricks iOS development</summary>
 <p>
@@ -355,6 +373,8 @@ Tricks iOS development:
 </p>
 </details>
 
+# History
+
 <details><summary>History</summary>
 <p>
 
@@ -364,6 +384,8 @@ History:
 
 </p>
 </details>
+
+# Utility
 
 <details><summary>Utility</summary>
 <p>

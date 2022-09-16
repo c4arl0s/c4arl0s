@@ -29,8 +29,9 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </details>
 
 <details><summary>iOS Apps using Objective-C/UIKit</summary>
+<p>
 
-List of apps I developed during self-study time.
+List of apps I developed during self-study time:
 
 11. [x] [Hypnosister (iPhone, using MRC)](https://github.com/c4arl0s/Hypnosister-ObjectiveC-Presentation#hypnosister-app---objective-c). Change and move concentric circles color with shake motion detection.
 12. [x] [Homepwner (iPhone, using MRC)](https://github.com/c4arl0s/Homepwner-ObjectiveC-Presentation#homepwner-app---objective-c). It keeps an inventory of all your possessions.
@@ -44,8 +45,9 @@ Frameworks used: UIKit, CoreData.
 </details>
 
 <details><summary>MacOS Applications / Objective-C / Cocoa</summary>
+<p>
 
-### [MacOS Applications / Objective-C / Cocoa](https://github.com/c4arl0s#main-projects)
+List of MacOS apps I developed during self-study time:
 
 1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/TahDoodle-Desktop-Cocoa-ObjectiveC-Presentation#tahdoole-desktop---cocoa--objective-c). Simple to-do list application that stores its data as a property list.
 2. [ ] [Cocoa Server App](https://github.com/c4arl0s/Cocoa-Server-App-Presentation#cocoaserver-app---objective-c). It creates a server to broadcast its presence and advertise its service on a local area network.
@@ -56,8 +58,7 @@ Frameworks used:
 </details>
 
 <details><summary>Bash Scripts</summary>
-
-### [Bash Scripts](https://github.com/c4arl0s#main-projects)
+<p>
 
 List of scripts I wrote to speed up my developments
 
@@ -77,23 +78,29 @@ List of scripts I wrote to speed up my developments
 # Diploma Courses
 
 <details><summary>Mobile Application Development Diploma Course / UNAM 2018, 240 hours</summary>
+<p>
 
 Diploma Course at iOS Development Lab, UNAM, 2018
 
 1. [x] [Mobile Application Development Diploma Course - UNAM 2018, 240 hours](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
+
 </p>
 </details>
+
 <details><summary>Advanced iOS and Android Development Diploma Course / UNAM DGTIC 2022, 240 hours</summary>
+<p>
 
 Diploma Course at DGTIC UNAM 
 
 1. [x] [Advanced iOS and Android Development Diploma Course - UNAM DGTIC 2022, 240 hours](https://github.com/c4arl0s/Advanced-iOS-and-Android-Development-Diploma-Course)
+
 </p>
 </details>
 
 # Courses
 
 <details><summary>iOS Development Courses / Using Swift and UIKit</summary>
+<p>
 
 List of courses I took to improve my knowledge and skills about iOS Development through a couple of years.
 
@@ -113,8 +120,9 @@ Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion,
 </details>
 
 <details><summary>iOS Development Courses / Using Objective-C</summary>
+<p>
 
-### [iOS Development Courses / Using Objective-C](https://github.com/c4arl0s#main-projects)
+iOS Development Courses using Objective-C during self-study time.
 
 1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec) 
 2. [x] [Objective-C Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
@@ -124,12 +132,14 @@ Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion,
 6. [x] [Frameworks, Libraries and Targets](https://github.com/c4arl0s/9FrameworksLibrariesAndTargets#frameworks-libraries-and-targets---content)
 
 Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVFoundation, Speech.
+
 </p>
 </details>
 
 <details><summary>iOS Development Courses / SwiftUI</summary>
+<p>
 
-### [iOS Development Courses / SwiftUI](https://github.com/c4arl0s#main-projects)
+iOS Development Courses / SwiftUI during self study time.
 
 1. [ ] [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#introducing-swiftui)
 
@@ -137,8 +147,9 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 </details>
 
 <details><summary>iOS Design Patterns on iOS</summary>
+<p>
 
-### [iOS Design Patterns on iOS](https://github.com/c4arl0s#main-projects)
+iOS Design Patterns on iOS:
 
 1. [x] [The Model-View-ViewModel Architectural Pattern](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#--the-model-view-viewmodel-architectural-pattern)
 2. [ ] [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)
@@ -154,12 +165,14 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 <img width="626" alt="Screen Shot 2022-09-01 at 1 16 53 a m" src="https://user-images.githubusercontent.com/24994818/187845125-0e943a1b-cadb-4f52-9c86-080d27ddfe72.png">
 
 <img width="626" alt="Screen Shot 2022-09-01 at 1 31 26 a m" src="https://user-images.githubusercontent.com/24994818/187847137-8effefc5-953f-4f13-a66d-359bf8488a01.png">
+
 </p>
 </details>
 
 <details><summary>Test Driven Development on iOS</summary>
+<p>
 
-### [Test Driven Development on iOS](https://github.com/c4arl0s#main-projects)
+Test Driven Development on iOS:
 
 1. [ ] [iOS Code Testing](https://github.com/c4arl0s/iOS-Code-Testing#ios-code-testing)
 2. [ ] [Pro iOS Testing](https://github.com/c4arl0s/Pro-iOS-Testing#pro-ios-testing)
@@ -198,6 +211,7 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 </details>
 
 <details><summary>Objective-C</summary>
+<p>
 
 1. [x] [1. Objects](https://github.com/c4arl0s/2ObjectiveC#1-objects)
 2. [x] [2. Using instances](https://github.com/c4arl0s/2ObjectiveC#2-using-instances)
@@ -227,11 +241,12 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 </p>
 </details>
 
-[x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
+1. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
 
 <details><summary>C Programming Language Notes</summary>
+<p>
 
-### [C Programming Language Notes](https://github.com/c4arl0s#main-projects)
+C Programming Language Notes:
 
 Lectures, notes, code and documentation about C programming language.
 
@@ -245,8 +260,9 @@ Lectures, notes, code and documentation about C programming language.
 </details>
 
 <details><summary>C programs</summary>
+<p>
 
-### [C programs](https://github.com/c4arl0s#main-projects)
+C programs:
 
 1. [x] [search-price.c: It search a price of an item over a text file]()  
 2. [x] [fibonacci.c: it calculates first 20 numbers of fibonacci series]()
@@ -261,8 +277,9 @@ Lectures, notes, code and documentation about C programming language.
 # Object-Oriented Concepts
 
 <details><summary>UML And Object Oriented Design Foundations</summary>
+<p>
 
-### [UML And Object Oriented Design Foundations](https://github.com/c4arl0s/UML-And-Object-Oriented-Design-Foundations-Presentation#uml-and-object-oriented-design-foundations---content)
+UML And Object Oriented Design Foundations:
 
 1. [ ] [UML And Object Oriented Design Foundations](https://github.com/c4arl0s/UML-And-Object-Oriented-Design-Foundations-Presentation#uml-and-object-oriented-design-foundations---content)
 
@@ -272,8 +289,9 @@ Lectures, notes, code and documentation about C programming language.
 # Databases
 
 <details><summary>Data Bases</summary>
+<p>
 
-### [Data Bases](https://github.com/c4arl0s#main-projects)
+Data Bases:
 
 Lectures, code and documentation about data bases.
 
@@ -287,8 +305,9 @@ Lectures, code and documentation about data bases.
 # Version Control System
 
 <details><summary>Version Control System - Git</summary>
+<p>
 
-### [Version Control System - Git](https://github.com/c4arl0s#main-projects)
+Version Control System - Git:
 
 1. [x] [Introduction](https://github.com/c4arl0s/RysGitTutorialContentIndex#1-introduction)
 2. [x] [The basics](https://github.com/c4arl0s/RysGitTutorialContentIndex#2-the-basics)
@@ -311,8 +330,9 @@ Lectures, code and documentation about data bases.
 # Algorithms
 
 <details><summary>Algorithms</summary>
+<p>
 
-### [Algorithms](https://github.com/c4arl0s#main-projects)
+Algorithms:
 
 1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#algorithms-and-data-structures-in-swift) 
 2. [x] [Algorithms and Data Structures in Objective-C](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInObjectiveC#algorithms-and-data-structures-in-objective-c) 
@@ -325,8 +345,9 @@ Frameworks used: QuartzCore.
 </details>
 
 <details><summary>Tricks iOS development</summary>
+<p>
 
-### [Tricks iOS development](https://github.com/c4arl0s#main-projects)
+Tricks iOS development:
 
 1. [shortcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
 2. [Building and running wirelessly](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#3-building-and-running-wirelessly)
@@ -335,8 +356,9 @@ Frameworks used: QuartzCore.
 </details>
 
 <details><summary>History</summary>
+<p>
 
-### [History](https://github.com/c4arl0s#main-projects)
+History:
 
 <img width="1301" alt="Screen Shot 2022-04-10 at 11 56 10 a m" src="https://user-images.githubusercontent.com/24994818/162630747-5912c40d-5167-4fb1-ac42-8a7b49ddadb6.png">
 
@@ -344,8 +366,9 @@ Frameworks used: QuartzCore.
 </details>
 
 <details><summary>Utility</summary>
+<p>
 
-### [Utility](https://github.com/c4arl0s#main-projects)
+Utility:
 
 2. [x] [VIM](https://github.com/c4arl0s/VIM#vim) 
 3. [ ] [Regular Expresions](https://github.com/c4arl0s/RegularExpressions#regular-expression---content) 
@@ -359,8 +382,7 @@ Frameworks used: QuartzCore.
 # Computer Systems
 
 <details><summary>Computer Systems</summary>
-
-### [Computer Systems](https://github.com/c4arl0s#main-projects)
+<p>
 
 Notes about computer systems engineering from programming perspective.
 
@@ -387,8 +409,9 @@ Parallelism is a mechanism that increases computational speed by using multiple 
 # Operating Systems
 
 <details><summary>Operating Systems</summary>
+<p>
 
-### [Unix](https://github.com/c4arl0s/Unix#bashcheatsheet)
+Unix:
 
 Notes about unix.
 
@@ -400,8 +423,9 @@ Notes about unix.
 # Microprocessors and Microcontrollers
 
 <details><summary>Microprocessors and MicroControllers</summary>
+<p>
 
-### [Microprocessors and MicroControllers](https://github.com/c4arl0s#main-projects)
+Microprocessors and MicroControllers:
 
 Notes about how a microprocessor and a microcontrollers work.
 
@@ -412,8 +436,9 @@ Notes about how a microprocessor and a microcontrollers work.
 </details>
 
 <details><summary>Digital Signal Processing</summary>
+<p>
 
-### [Digital Signal Processing](https://github.com/c4arl0s#main-projects)
+Digital Signal Processing:
 
 1. [x] [Digital Signal Processing Notes](https://github.com/c4arl0s/DigitalSignalProcessing#digital-signal-processing)
 
@@ -421,8 +446,9 @@ Notes about how a microprocessor and a microcontrollers work.
 </details>
 
 <details><summary>Integrated Circuits</summary>
+<p>
 
-### [Integrated Circuits](https://github.com/c4arl0s#main-projects)
+Integrated Circuits:
 
 1. [x] [Integrated Circuits Notes](https://github.com/c4arl0s/IntegratedCircuitsNotes#integrated-circuits-notes)
 
@@ -430,8 +456,9 @@ Notes about how a microprocessor and a microcontrollers work.
 </details>
 
 <details><summary>Electronic Amplifiers</summary>
+<p>
 
-### [Electronic Amplifiers](https://github.com/c4arl0s#main-projects)
+Electronic Amplifiers:
 
 1. [x] [Electronic Amplifiers Notes](https://github.com/c4arl0s/ElectronicAmplifiersNotes#electronic-amplifiers-notes)
 
@@ -439,8 +466,9 @@ Notes about how a microprocessor and a microcontrollers work.
 </details>
 
 <details><summary>Electronic Devices</summary>
+<p>
 
-### [Electronic Devices](https://github.com/c4arl0s#main-projects)
+Electronic Devices:
 
 1. [x] [Electronic Devices Notes](https://github.com/c4arl0s/ElectronicDevicesNotes#electronic-devices-notes)
 
@@ -448,8 +476,9 @@ Notes about how a microprocessor and a microcontrollers work.
 </details>
 
 <details><summary>Analog Control</summary>
+<p>
 
-### [Analog Control](https://github.com/c4arl0s#main-projects)
+Analog Control:
 
 1. [x] [Analog Control](https://github.com/c4arl0s/AnalogControl)
 
@@ -457,8 +486,9 @@ Notes about how a microprocessor and a microcontrollers work.
 </details>
 
 <details><summary>Fuzzy Logic</summary>
+<p>
 
-### [Fuzzy Logic](https://github.com/c4arl0s#main-projects)
+Fuzzy Logic:
 
 1. [x] [Fuzzy Logic Notes](https://github.com/c4arl0s/FuzzyLogic#fuzzy-logic-notes)
 

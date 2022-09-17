@@ -146,10 +146,44 @@ iOS Development Courses / SwiftUI during self study time.
 </p>
 </details>
 
-<details><summary>iOS Design Patterns on iOS</summary>
+<details><summary>iOS Design Patterns in Swift</summary>
 <p>
 
-iOS Design Patterns on iOS:
+Design Patterns in Swift
+
+# The Creation Patterns
+
+1. The Object Template Pattern
+2. The Prototype Pattern
+3. The Singleton Pattern
+4. The Object Pool Pattern
+5. Object Pool Variations
+6. The Factory Method Pattern
+7. Abstract Factory Pattern
+8. The Builder Pattern
+
+# Structural Patterns
+
+1. The Adapter Pattern
+2. The Bridge Pattern
+3. The Decorator Pattern
+4. The Composite Pattern
+5. The Façade Pattern
+6. The Flyweight Pattern
+7. The Proxy Pattern
+
+# The Behavioral Patterns
+
+1. The Chain of Responsibility Pattern
+2. The Command Pattern
+3. The Mediator Pattern
+4. The Observer Pattern
+5. The Memento Pattern
+6. The Strategy Pattern
+7. The Visitor Pattern
+8. The Template Method Pattern
+
+# The MVVM Architectural Pattern
 
 1. [x] [The Model-View-ViewModel Architectural Pattern](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#--the-model-view-viewmodel-architectural-pattern)
 2. [ ] [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)

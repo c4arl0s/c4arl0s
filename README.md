@@ -188,6 +188,8 @@ Design Patterns in Swift
 1. [x] [The Model-View-ViewModel Architectural Pattern](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#--the-model-view-viewmodel-architectural-pattern)
 2. [ ] [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)
 
+<img width="1012" alt="Screen Shot 2022-09-22 at 12 32 38 a m" src="https://user-images.githubusercontent.com/24994818/191666057-71e1ae5c-e417-4f42-bded-8aecc9a78fb5.png">
+
 <img width="449" alt="Screen Shot 2022-09-01 at 1 39 32 a m" src="https://user-images.githubusercontent.com/24994818/187848385-19f517ed-f362-4754-a0e8-6ad3567f1f8c.png">
 
 <img width="453" alt="Screen Shot 2022-09-01 at 1 40 45 a m" src="https://user-images.githubusercontent.com/24994818/187848582-a70c893b-7c71-4234-b074-2a5114945654.png">

@@ -473,6 +473,10 @@ Unix:
 
 Notes about unix.
 
+<div>
+<img src="https://user-images.githubusercontent.com/24994818/210193606-ee625a97-d5a2-4e1d-8bdf-0515eb24ac06.jpg" width="500" height="300"/>
+</div>
+
 1. [x] [Unix](https://github.com/c4arl0s/Unix#bashcheatsheet) 
 
 </p>

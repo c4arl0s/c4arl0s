@@ -21,6 +21,7 @@ List of apps I developed during diploma course and self-study time.
 10. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList-Presentation). List of tasks or activities placed in chronological order.
 11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp). Project that shows a catalog of Steriflow products.
 12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/Calculator-UI-Presentation#lab-calculator---content). User interface that shows you the power of Autolayout.
+13. [x] [Calculator (UI + operations, iPhone and iPad)](https://github.com/c4arl0s/Practice-One-Calculator.git). Calculator that computes basic operations, +, -, *, /
 
 Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
 iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action, 
@@ -87,7 +88,7 @@ Diploma Course at iOS Development Lab, UNAM, 2018
 </p>
 </details>
 
-<details><summary>Advanced iOS and Android Development Diploma Course / UNAM DGTIC 2022, 240 hours</summary>
+<details><summary>Advanced iOS and Android Development Diploma Course / UNAM DGTIC 2023, 240 hours</summary>
 <p>
 
 Diploma Course at DGTIC UNAM 

@@ -1,13 +1,13 @@
 # Main Projects:
 
-If you want to contribute send me an email: c.santiago.cruz@icloud.com
+If you want to contribute send me an email: c.santiago.cruz@icloud.com, so I could add you as a collaborator.
 
 # Apps
 
 <details><summary>iOS Apps using Swift/UIKit</summary>
 <p>
 
-List of apps I developed during diploma course and self-study time.
+* List of apps I developed during diploma course and self-study time.
 
 1. [x] [Photorama](https://github.com/c4arl0s/Photorama-App-Presentation#photorama-app). It makes a web service request to get photos.
 2. [x] [Restaurant](https://github.com/c4arl0s/Restaurant-App-Presentation#restaurant-app). Interactive restaurant menu that displays offerings, adds orders and sent order request.
@@ -32,7 +32,7 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 <details><summary>iOS Apps using Objective-C/UIKit</summary>
 <p>
 
-List of apps I developed during self-study time:
+* List of apps I developed during self-study time:
 
 11. [x] [Hypnosister (iPhone, using MRC)](https://github.com/c4arl0s/Hypnosister-ObjectiveC-Presentation#hypnosister-app---objective-c). Change and move concentric circles color with shake motion detection.
 12. [x] [Homepwner (iPhone, using MRC)](https://github.com/c4arl0s/Homepwner-ObjectiveC-Presentation#homepwner-app---objective-c). It keeps an inventory of all your possessions.
@@ -40,7 +40,7 @@ List of apps I developed during self-study time:
 14. [x] [Nerdfeed (iPad, using MRC)](https://github.com/c4arl0s/Nerdfeed-ObjectiveC-Presentation#nerdfeed-app---objective-c). It reads the RSS feed from the Apple newsroom web service.
 15. [x] [Basic MediaPlayer App (iPhone, using MRC)](https://github.com/c4arl0s/MediaPlayer-ObjectiveC-Presentation#media-playback---objective-c). Simple user interface to display a movie or video and audio.
 
-Frameworks used: UIKit, CoreData. 
+* Frameworks used: UIKit, CoreData. 
 
 </p>
 </details>
@@ -48,12 +48,12 @@ Frameworks used: UIKit, CoreData.
 <details><summary>MacOS Applications / Objective-C / Cocoa</summary>
 <p>
 
-List of MacOS apps I developed during self-study time:
+* List of MacOS apps I developed during self-study time:
 
 1. [x] [TahDoole Desktop App](https://github.com/c4arl0s/TahDoodle-Desktop-Cocoa-ObjectiveC-Presentation#tahdoole-desktop---cocoa--objective-c). Simple to-do list application that stores its data as a property list.
 2. [ ] [Cocoa Server App](https://github.com/c4arl0s/Cocoa-Server-App-Presentation#cocoaserver-app---objective-c). It creates a server to broadcast its presence and advertise its service on a local area network.
 
-Frameworks used: 
+* Frameworks used: 
 
 </p>
 </details>
@@ -61,7 +61,7 @@ Frameworks used:
 <details><summary>Bash Scripts</summary>
 <p>
 
-List of scripts I wrote to speed up my developments
+* List of scripts I wrote to speed up my developments
 
 1. [x] [git-restore-ui.sh: It uses a dialog box to restore files that are located in staged area](https://github.com/c4arl0s/git-restore-user-interface-script#git-restore-user-interface-script)
 2. [x] [git-add-ui.sh: It uses a dialog box to add modified and untracked files to the staged area](https://github.com/c4arl0s/git-add-user-interface-script#git-add-user-interface-script)
@@ -81,7 +81,7 @@ List of scripts I wrote to speed up my developments
 <details><summary>Mobile Application Development Diploma Course / UNAM 2018, 240 hours</summary>
 <p>
 
-Diploma Course at iOS Development Lab, UNAM, 2018
+* Diploma Course at iOS Development Lab, UNAM, 2018
 
 1. [x] [Mobile Application Development Diploma Course - UNAM 2018, 240 hours](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
 
@@ -91,7 +91,7 @@ Diploma Course at iOS Development Lab, UNAM, 2018
 <details><summary>Advanced iOS and Android Development Diploma Course / UNAM DGTIC 2023, 240 hours</summary>
 <p>
 
-Diploma Course at DGTIC UNAM 
+* Diploma Course at DGTIC UNAM 
 
 1. [x] [Advanced iOS and Android Development Diploma Course - UNAM DGTIC 2022, 240 hours](https://github.com/c4arl0s/Advanced-iOS-and-Android-Development-Diploma-Course)
 
@@ -103,7 +103,7 @@ Diploma Course at DGTIC UNAM
 <details><summary>iOS Development Courses / Using Swift and UIKit</summary>
 <p>
 
-List of courses I took to improve my knowledge and skills about iOS Development through a couple of years.
+* List of courses I took to improve my knowledge and skills about iOS Development through a couple of years.
 
 1. [x] [iOS Programming with Swift](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift) (BNR course provided by iOS instructors to improve skills)
 2. [x] [Practical Autolayout](https://github.com/c4arl0s/PracticalAutoLayoutXcode8#practical-autolayout---xcode-8) (Interesting book about how to demystify Autolayout)
@@ -116,14 +116,14 @@ List of courses I took to improve my knowledge and skills about iOS Development 
 9. [x] [Protocols](https://github.com/c4arl0s/Swift-Protocols#swift-protocols---content)
 10. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
 
-Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech. 
+* Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech. 
 </p>
 </details>
 
 <details><summary>iOS Development Courses / Using Objective-C</summary>
 <p>
 
-iOS Development Courses using Objective-C during self-study time.
+* iOS Development Courses using Objective-C during self-study time.
 
 1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec) 
 2. [x] [Objective-C Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
@@ -132,7 +132,7 @@ iOS Development Courses using Objective-C during self-study time.
 5. [ ] [Grand Central Dispatch](https://github.com/c4arl0s/15GrandCentralDispatchBackgroundProcessingAndYou#15-grand-central-dispatch-background-processing-and-you---content)
 6. [x] [Frameworks, Libraries and Targets](https://github.com/c4arl0s/9FrameworksLibrariesAndTargets#frameworks-libraries-and-targets---content)
 
-Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVFoundation, Speech.
+* Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVFoundation, Speech.
 
 </p>
 </details>
@@ -140,7 +140,7 @@ Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVF
 <details><summary>iOS Development Courses / SwiftUI</summary>
 <p>
 
-iOS Development Courses / SwiftUI during self study time.
+* iOS Development Courses / SwiftUI during self study time.
 
 1. [ ] [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#introducing-swiftui)
 
@@ -150,7 +150,7 @@ iOS Development Courses / SwiftUI during self study time.
 <details><summary>iOS Design Patterns in Swift</summary>
 <p>
 
-Design Patterns in Swift
+* Design Patterns in Swift
 
 # The Creation Patterns
 
@@ -209,7 +209,7 @@ Design Patterns in Swift
 <details><summary>Test Driven Development on iOS</summary>
 <p>
 
-Test Driven Development on iOS:
+* Test Driven Development on iOS:
 
 1. [ ] [iOS Code Testing](https://github.com/c4arl0s/iOS-Code-Testing#ios-code-testing)
 2. [ ] [Pro iOS Testing](https://github.com/c4arl0s/Pro-iOS-Testing#pro-ios-testing)
@@ -283,7 +283,7 @@ Test Driven Development on iOS:
 <details><summary>C Programming Language Notes</summary>
 <p>
 
-C Programming Language Notes:
+* C Programming Language Notes:
 
 Lectures, notes, code and documentation about C programming language.
 
@@ -299,7 +299,7 @@ Lectures, notes, code and documentation about C programming language.
 <details><summary>C programs</summary>
 <p>
 
-C programs:
+* C programs:
 
 1. [x] [search-price.c: It search a price of an item over a text file]()  
 2. [x] [fibonacci.c: it calculates first 20 numbers of fibonacci series]()
@@ -316,7 +316,7 @@ C programs:
 <details><summary>UML And Object Oriented Design Foundations</summary>
 <p>
 
-UML And Object Oriented Design Foundations:
+* UML And Object Oriented Design Foundations:
 
 1. [ ] [UML And Object Oriented Design Foundations](https://github.com/c4arl0s/UML-And-Object-Oriented-Design-Foundations-Presentation#uml-and-object-oriented-design-foundations---content)
 
@@ -328,7 +328,7 @@ UML And Object Oriented Design Foundations:
 <details><summary>Data Bases</summary>
 <p>
 
-Data Bases:
+* Data Bases:
 
 Lectures, code and documentation about data bases.
 
@@ -344,7 +344,7 @@ Lectures, code and documentation about data bases.
 <details><summary>Version Control System - Git</summary>
 <p>
 
-Version Control System - Git:
+* Version Control System - Git:
 
 1. [x] [Introduction](https://github.com/c4arl0s/RysGitTutorialContentIndex#1-introduction)
 2. [x] [The basics](https://github.com/c4arl0s/RysGitTutorialContentIndex#2-the-basics)
@@ -369,7 +369,7 @@ Version Control System - Git:
 <details><summary>Algorithms</summary>
 <p>
 
-Algorithms:
+* Algorithms:
 
 1. [x] [Algorithms and Data Structures in Swift](https://github.com/c4arl0s/AlgorithmsAndDataStructuresInSwift#ilgorithms-and-data-structures-in-swift) 
      - [x] [Basic Sorting](https://github.com/c4arl0s/7BasicSortingAADSSwift#7-basic-sorting)
@@ -392,7 +392,7 @@ Algorithms:
      - [ ] Parallel Graph Algorithms
      - [ ] Distributed Graph Algorithms 
 
-Frameworks used: QuartzCore. 
+* Frameworks used: QuartzCore. 
 
 </p>
 </details>
@@ -402,7 +402,7 @@ Frameworks used: QuartzCore.
 <details><summary>Tricks iOS development</summary>
 <p>
 
-Tricks iOS development:
+* Tricks iOS development:
 
 1. [shortcuts](https://github.com/c4arl0s/Xcode#3-keyboard-shorcuts)
 2. [Building and running wirelessly](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#3-building-and-running-wirelessly)
@@ -415,7 +415,7 @@ Tricks iOS development:
 <details><summary>History</summary>
 <p>
 
-History:
+* History:
 
 <img width="1301" alt="Screen Shot 2022-04-10 at 11 56 10 a m" src="https://user-images.githubusercontent.com/24994818/162630747-5912c40d-5167-4fb1-ac42-8a7b49ddadb6.png">
 
@@ -427,7 +427,7 @@ History:
 <details><summary>Utility</summary>
 <p>
 
-Utility:
+* Utility:
 
 2. [x] [VIM](https://github.com/c4arl0s/VIM#vim) 
 3. [ ] [Regular Expresions](https://github.com/c4arl0s/RegularExpressions#regular-expression---content) 
@@ -443,7 +443,7 @@ Utility:
 <details><summary>Computer Systems</summary>
 <p>
 
-Notes about computer systems engineering from programming perspective.
+* Notes about computer systems engineering from programming perspective.
 
 1. [x] [Computer Systems - A Programmers Perspective](https://github.com/c4arl0s/ComputerSystems_aProgrammersPerspective#computer-systems---a-programmers-perspective) 
 2. [x] [Computer Organization and Design Fundamentals](https://github.com/c4arl0s/ComputerOrganization-DesignFundamentals#computer-organization-and-design-fundamentals) 
@@ -458,7 +458,7 @@ In Concurrency, a major task is divided into subtask that execute simultaneously
 
 ### Parallelism
 
-Parallelism is a mechanism that increases computational speed by using multiple processors. In parallelism, tasks execute simultaneously and at the same time. A good example of parallelism is running a video editor that has many task to perform simultaneoulsy.
+* Parallelism is a mechanism that increases computational speed by using multiple processors. In parallelism, tasks execute simultaneously and at the same time. A good example of parallelism is running a video editor that has many task to perform simultaneoulsy.
 
 <img width="488" alt="Paralellism" src="https://user-images.githubusercontent.com/24994818/187840796-a3d589f8-3db1-48e1-ab90-7db7991cd097.png">
 
@@ -470,9 +470,7 @@ Parallelism is a mechanism that increases computational speed by using multiple 
 <details><summary>Operating Systems</summary>
 <p>
 
-Unix:
-
-Notes about unix.
+* Unix:
 
 <div>
 <img src="https://user-images.githubusercontent.com/24994818/210193606-ee625a97-d5a2-4e1d-8bdf-0515eb24ac06.jpg" width="500" height="300"/>
@@ -488,9 +486,7 @@ Notes about unix.
 <details><summary>Microprocessors and MicroControllers</summary>
 <p>
 
-Microprocessors and MicroControllers:
-
-Notes about how a microprocessor and a microcontrollers work.
+* Microprocessors and MicroControllers: Notes about how a microprocessor and a microcontrollers work.
 
 1. [x] [Inside The Machine](https://github.com/c4arl0s/InsideTheMachine#inside-the-machine) 
 2. [x] [Microprocessorsi And Microcontrollers](https://github.com/c4arl0s/MicroprocessorsAndMicrocontrollers) 
@@ -511,7 +507,7 @@ Digital Signal Processing:
 <details><summary>Integrated Circuits</summary>
 <p>
 
-Integrated Circuits:
+* Integrated Circuits:
 
 1. [x] [Integrated Circuits Notes](https://github.com/c4arl0s/IntegratedCircuitsNotes#integrated-circuits-notes)
 
@@ -521,7 +517,7 @@ Integrated Circuits:
 <details><summary>Electronic Amplifiers</summary>
 <p>
 
-Electronic Amplifiers:
+* Electronic Amplifiers:
 
 1. [x] [Electronic Amplifiers Notes](https://github.com/c4arl0s/ElectronicAmplifiersNotes#electronic-amplifiers-notes)
 
@@ -531,7 +527,7 @@ Electronic Amplifiers:
 <details><summary>Electronic Devices</summary>
 <p>
 
-Electronic Devices:
+* Electronic Devices:
 
 1. [x] [Electronic Devices Notes](https://github.com/c4arl0s/ElectronicDevicesNotes#electronic-devices-notes)
 
@@ -541,7 +537,7 @@ Electronic Devices:
 <details><summary>Analog Control</summary>
 <p>
 
-Analog Control:
+* Analog Control:
 
 1. [x] [Analog Control](https://github.com/c4arl0s/AnalogControl)
 
@@ -551,7 +547,7 @@ Analog Control:
 <details><summary>Fuzzy Logic</summary>
 <p>
 
-Fuzzy Logic:
+* Fuzzy Logic:
 
 1. [x] [Fuzzy Logic Notes](https://github.com/c4arl0s/FuzzyLogic#fuzzy-logic-notes)
 

@@ -21,7 +21,7 @@ If you want to contribute send me an email: c.santiago.cruz@icloud.com, so I cou
 10. [ ] [Chronolist](https://github.com/c4arl0s/ChronoList-Presentation). List of tasks or activities placed in chronological order.
 11. [ ] [SteriflowApp](https://github.com/c4arl0s/ProductViewControllerForSteriflowApp#steriflowapp). Project that shows a catalog of Steriflow products.
 12. [x] [Calculator (UI only, iPhone)](https://github.com/c4arl0s/Calculator-UI-Presentation#lab-calculator---content). User interface that shows you the power of Autolayout.
-13. [x] [Calculator (UI + operations, iPhone and iPad)](https://github.com/c4arl0s/Practice-One-Calculator.git). Calculator that computes basic operations, +, -, *, /
+13. [x] [Calculator (UI + operations, iPhone and iPad)](https://github.com/c4arl0s/Practice-One-Calculator.git). Calculator that computes basic operations, +, -, \*, /
 
 Frameworks used: UIKit, CoreData, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech, ARKit.
 iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action, 
@@ -494,6 +494,8 @@ In Concurrency, a major task is divided into subtask that execute simultaneously
 </p>
 </details>
 
+# Digital Signal Processing
+
 <details><summary>Digital Signal Processing</summary>
 <p>
 
@@ -503,6 +505,8 @@ Digital Signal Processing:
 
 </p>
 </details>
+
+# Integrated Circuits
 
 <details><summary>Integrated Circuits</summary>
 <p>
@@ -514,6 +518,8 @@ Digital Signal Processing:
 </p>
 </details>
 
+# Electronic Amplifiers
+
 <details><summary>Electronic Amplifiers</summary>
 <p>
 
@@ -523,6 +529,8 @@ Digital Signal Processing:
 
 </p>
 </details>
+
+# Electronic Devices
 
 <details><summary>Electronic Devices</summary>
 <p>
@@ -534,6 +542,8 @@ Digital Signal Processing:
 </p>
 </details>
 
+# Analog Control
+
 <details><summary>Analog Control</summary>
 <p>
 
@@ -543,6 +553,8 @@ Digital Signal Processing:
 
 </p>
 </details>
+
+# Fuzzy Logic
 
 <details><summary>Fuzzy Logic</summary>
 <p>

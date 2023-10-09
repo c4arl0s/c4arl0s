@@ -346,22 +346,7 @@ Lectures, code and documentation about data bases.
 <details><summary>Version Control System - Git</summary>
 <p>
 
-* Version Control System - Git:
-
-1. [x] [Introduction](https://github.com/c4arl0s/RysGitTutorialContentIndex#1-introduction)
-2. [x] [The basics](https://github.com/c4arl0s/RysGitTutorialContentIndex#2-the-basics)
-3. [x] [Undoing Changes](https://github.com/c4arl0s/RysGitTutorialContentIndex#3-undoing-changes-rys-git-tutorial)
-4. [x] [Branches I](https://github.com/c4arl0s/RysGitTutorialContentIndex#4-branches-i)
-5. [x] [Branches II](https://github.com/c4arl0s/RysGitTutorialContentIndex#5-branches-ii)
-6. [x] [Rebasing](https://github.com/c4arl0s/RysGitTutorialContentIndex#6-rebasing)	
-7. [x] [Rewriting History](https://github.com/c4arl0s/RysGitTutorialContentIndex#7-rewriting-history)
-8. [x] [Remotes](https://github.com/c4arl0s/RysGitTutorialContentIndex#8-remotes)
-9. [x] [Centralized Workflows](https://github.com/c4arl0s/RysGitTutorialContentIndex#9-centralized-workflows)
-10. [x] [Distributed Workflows](https://github.com/c4arl0s/RysGitTutorialContentIndex#10-distributed-workflows)
-11. [x] [Patch Workflows](https://github.com/c4arl0s/RysGitTutorialContentIndex#11-patch-workflows)
-12. [x] [Tips and Tricks](https://github.com/c4arl0s/RysGitTutorialContentIndex#12-tips-and-tricks)
-13. [x] [Plumbing](https://github.com/c4arl0s/RysGitTutorialContentIndex#13-plumbing)
-14. [x] [Summary git commands](https://github.com/c4arl0s/Summary-git-commands)
+1. [x] [Version Control Git / Lecture / Notes / Project](https://github.com/c4arl0s/RysGitTutorial#rys-git-tutorial)
 
 </p>
 </details>

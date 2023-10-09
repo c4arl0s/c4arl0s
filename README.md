@@ -80,22 +80,22 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 # Diploma Courses
 
-<details><summary>Mobile Application Development Diploma Course / UNAM 2018, 240 hours</summary>
+<details><summary>Advanced iOS and Android Development / UNAM DGTIC 2023, 240 hours</summary>
 <p>
 
-* Diploma Course at iOS Development Lab, UNAM, 2018
+* Diploma Course at DGTIC UNAM, 2023 
 
-1. [x] [Mobile Application Development Diploma Course - UNAM 2018, 240 hours](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
+1. [x] [Advanced iOS and Android Development - UNAM DGTIC 2022, 240 hours](https://github.com/c4arl0s/Advanced-iOS-and-Android-Development-Diploma-Course)
 
 </p>
 </details>
 
-<details><summary>Advanced iOS and Android Development Diploma Course / UNAM DGTIC 2023, 240 hours</summary>
+<details><summary>Mobile Application Development / UNAM 2018, 240 hours</summary>
 <p>
 
-* Diploma Course at DGTIC UNAM 
+* Diploma Course at iOS Development Lab, UNAM, 2018
 
-1. [x] [Advanced iOS and Android Development Diploma Course - UNAM DGTIC 2022, 240 hours](https://github.com/c4arl0s/Advanced-iOS-and-Android-Development-Diploma-Course)
+1. [x] [Mobile Application Development - UNAM 2018, 240 hours](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
 
 </p>
 </details>

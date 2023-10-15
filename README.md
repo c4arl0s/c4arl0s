@@ -61,19 +61,19 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 <details><summary>Bash Scripts</summary>
 <p>
 
-* List of scripts I wrote to speed up my developments
+* List of bash scripts I wrote to speed up my developments
 
-1. [x] [git-add-ui.sh: It uses a dialog box to add modified and untracked files to the staged area](https://github.com/c4arl0s/git-add-user-interface-script#git-add-user-interface-script)
-2. [x] [git-add-with-filter-ui.sh: It uses a dialog box to add modified and untracked files with a filter to the staged area](https://github.com/c4arl0s/git-add-with-filter-ui#git-add-with-filter-ui)
-3. [x] [git-restore-ui.sh: It uses a dialog box to restore files that are located in staged area](https://github.com/c4arl0s/git-restore-user-interface-script#git-restore-user-interface-script)
-4. [x] [git-restore-with-filter-ui.sh: It uses a dialog box to restore files using a filter that are located in staged area](https://github.com/c4arl0s/git-restore-with-filter-ui)
-5. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/DictEnEsScript)
-6. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/DictEnEsScript)
-7. [x] [CreateContentIndexScript.sh: Create Content Index script for my repositores](https://github.com/c4arl0s/CreateContentIndex#create-content-index-script)
-8. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/RemoveDotDS_StoreFileRecursiveScript#removedotds_storefilerecursivescript)
-9. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/VerifyStatusRepositoriesScript)
-10. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/ExtractImagesFromPdfFilesBatchScript#extractimagesfrompdffilesbatchscript)
-11. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/renameAllFilesScript)
+1. [x] [create-table-of-contents.sh: Create a table of contents given a txt file](https://github.com/c4arl0s/create-table-of-contents)
+2. [x] [git-add-ui.sh: It uses a dialog box to add modified and untracked files to the staged area](https://github.com/c4arl0s/git-add-user-interface-script#git-add-user-interface-script)
+3. [x] [git-add-with-filter-ui.sh: It uses a dialog box to add modified and untracked files with a filter to the staged area](https://github.com/c4arl0s/git-add-with-filter-ui#git-add-with-filter-ui)
+4. [x] [git-restore-ui.sh: It uses a dialog box to restore files that are located in staged area](https://github.com/c4arl0s/git-restore-user-interface-script#git-restore-user-interface-script)
+5. [x] [git-restore-with-filter-ui.sh: It uses a dialog box to restore files using a filter that are located in staged area](https://github.com/c4arl0s/git-restore-with-filter-ui)
+6. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/DictEnEsScript)
+7. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/DictEnEsScript)
+8. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/rm-dot-DS_Store-files-recursively)
+9. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/verify-status-of-current-repositories)
+10. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/extract-images-from-pdf-files)
+11. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/rename-files)
 
 </p>
 </details>
@@ -85,7 +85,7 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 * Diploma Course at DGTIC UNAM, 2023 
 
-1. [x] [Advanced iOS and Android Development - UNAM DGTIC 2022, 240 hours](https://github.com/c4arl0s/Advanced-iOS-and-Android-Development-Diploma-Course)
+1. [x] [Advanced iOS and Android Development - UNAM DGTIC 2023, 240 hours](https://github.com/c4arl0s/Advanced-iOS-and-Android-Development-Diploma-Course)
 
 </p>
 </details>

@@ -154,7 +154,11 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 1. [ ] [Pro Design Patterns in Swift](https://github.com/c4arl0s/Pro-Design-Patterns-in-Swift)
 
-# The MVVM Architectural Pattern
+</p>
+</details>
+
+<details><summary>The MVVM Architectural Pattern</summary>
+<p>
 
 1. [x] [The Model-View-ViewModel Architectural Pattern](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#--the-model-view-viewmodel-architectural-pattern)
 2. [ ] [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)

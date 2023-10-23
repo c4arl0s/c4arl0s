@@ -152,39 +152,7 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 <details><summary>iOS Design Patterns in Swift</summary>
 <p>
 
-* Design Patterns in Swift
-
-# The Creation Patterns
-
-1. The Object Template Pattern
-2. The Prototype Pattern
-3. The Singleton Pattern
-4. The Object Pool Pattern
-5. Object Pool Variations
-6. The Factory Method Pattern
-7. Abstract Factory Pattern
-8. The Builder Pattern
-
-# Structural Patterns
-
-1. The Adapter Pattern
-2. The Bridge Pattern
-3. The Decorator Pattern
-4. The Composite Pattern
-5. The Façade Pattern
-6. The Flyweight Pattern
-7. The Proxy Pattern
-
-# The Behavioral Patterns
-
-1. The Chain of Responsibility Pattern
-2. The Command Pattern
-3. The Mediator Pattern
-4. The Observer Pattern
-5. The Memento Pattern
-6. The Strategy Pattern
-7. The Visitor Pattern
-8. The Template Method Pattern
+1. [ ] [Pro Design Patterns in Swift](https://github.com/c4arl0s/Pro-Design-Patterns-in-Swift)
 
 # The MVVM Architectural Pattern
 

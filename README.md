@@ -318,7 +318,8 @@ Lectures, code and documentation about data bases.
 <details><summary>Version Control System - Git</summary>
 <p>
 
-1. [x] [Version Control Git / Lecture / Notes / Project](https://github.com/c4arl0s/RysGitTutorial#rys-git-tutorial)
+1. [x] [Version Control Git (Notes)](https://github.com/c4arl0s/RysGitTutorial#rys-git-tutorial)
+2. [x] [Summary git commands](https://github.com/c4arl0s/Summary-git-commands#summary-git-commands)
 
 </p>
 </details>

@@ -111,11 +111,11 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 2. [x] [Practical Autolayout](https://github.com/c4arl0s/PracticalAutoLayoutXcode8#practical-autolayout---xcode-8) (Interesting book about how to demystify Autolayout)
 3. [x] [Learn to Code in Swift](https://github.com/c4arl0s/LearnToCodeInSwift4#learn-to-code-in-swift-4---content) (Interesting way to teach Swift using iOS projects created by the author, It is a must)
 4. [x] [Apple iOS Swift Unit Testing](https://github.com/c4arl0s/LearnAppleiOSSwiftUnitTesting#learn-apple-ios-swift-unit-testing---content) (First approach)
-5. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode) (Apple course that teach you an introduction about ARKit)
+5. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/App-Development-With-Swift#4-building-ar-apps-with-xcode)
 6. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) (Important chapter provided by Learn to Code in Swift book)
 7. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
 8. [x] [CoreGraphics](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#8-core-graphics)
-9. [x] [Protocols](https://github.com/c4arl0s/Swift-Protocols#swift-protocols---content)
+9. [x] [Protocols](https://github.com/c4arl0s/Swift-Protocols#swift-protocols---content) Importan information from Swift documentation.
 10. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
 
 * Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech. 

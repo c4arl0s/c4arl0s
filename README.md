@@ -83,19 +83,19 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 <details><summary>Advanced iOS and Android Development / UNAM DGTIC 2023, 240 hours</summary>
 <p>
 
-* Diploma Course at DGTIC UNAM, 2023 
+* Diploma Course at [DGTIC UNAM (Web Conference)](https://docencia.tic.unam.mx/diplomado-en-dispositivos-moviles), 2023 
 
 1. [x] [Advanced iOS and Android Development - UNAM DGTIC 2023, 240 hours](https://github.com/c4arl0s/Advanced-iOS-and-Android-Development-Diploma-Course)
 
 </p>
 </details>
 
-<details><summary>Mobile Application Development / UNAM 2018, 240 hours</summary>
+<details><summary>Mobile Application Development / UNAM 2019, 240 hours</summary>
 <p>
 
-* Diploma Course at iOS Development Lab, UNAM, 2018
+* Diploma Course at [iOS Development Lab, UNAM](http://ioslab.ingenieria.unam.mx/diplomado.html) 2nd Generation, 2019.
 
-1. [x] [Mobile Application Development - UNAM 2018, 240 hours](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
+1. [x] [Mobile Application Development - UNAM 2019, 240 hours](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
 
 </p>
 </details>
@@ -193,79 +193,31 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 # Skills / Programming Languages / notes
 
-<details><summary>Swift</summary>
+<details><summary>Bash Scripts</summary>
 <p>
-
-<img width="491" alt="Screen Shot 2022-07-02 at 12 41 22 p m" src="https://user-images.githubusercontent.com/24994818/177011338-dfac00e4-0af9-4749-809e-ae0b1952a574.png">
-
-1. [Introduction to Swift and Playgrounds](https://github.com/c4arl0s/IntroductionToSwiftAndPlaygrounds#introduction-to-swift-and-playgrounds---content)
-2. [Constants, Variables and Data Types](https://github.com/c4arl0s/ConstantsVariablesAndDataTypes#constants-variables-and-data-types---content)
-3. [Operators](https://github.com/c4arl0s/Operators#operators---content)
-4. [Control Flow](https://github.com/c4arl0s/ControlFlow#controlflow---content)
-5. [Xcode](https://github.com/c4arl0s/Xcode#xcode---content)
-6. [Building, Running and Debugging an App](https://github.com/c4arl0s/BuildingRunningAndDebuggingAnApp#building-running-and-debugging-an-app---content)
-7. [Interface Builder Basics](https://github.com/c4arl0s/InterfaceBuilderBasics#interface-builder-basics---content)
-8. [Strings](https://github.com/c4arl0s/Strings#strings---content)
-9. [Functions](https://github.com/c4arl0s/Functions#functions---content)
-10. [Structures](https://github.com/c4arl0s/Structures#structures---content)
-11. [Classes, Inheritance](https://github.com/c4arl0s/ClassesAndInheritance#classes-and-inheritance---content)
-12. [Collections](https://github.com/c4arl0s/Collections#collections---content)
-13. [Loops](https://github.com/c4arl0s/Loops#loops---content)
-14. [Optionals](https://github.com/c4arl0s/Optionals#optionals---content)
-15. [Type Casting and Inspection](https://github.com/c4arl0s/TypeCastingAndInspection#2-type-casting-and-inspection---content)
-16. [Guard](https://github.com/c4arl0s/Guard#3-guard---content)
-17. [Enumerations](https://github.com/c4arl0s/Enumerations#enumerations---content)
-18. [Closures](https://github.com/c4arl0s/Closures#closures---content)
-19. [Extensions](https://github.com/c4arl0s/Extensions#extensions---content) 
-
-</p>
-</details>
-
-<details><summary>Objective-C</summary>
-<p>
-
-1. [x] [1. Objects](https://github.com/c4arl0s/2ObjectiveC#1-objects)
-2. [x] [2. Using instances](https://github.com/c4arl0s/2ObjectiveC#2-using-instances)
-3. [x] [3. Creating objects](https://github.com/c4arl0s/2ObjectiveC#3-creating-objects)
-4. [x] [4. Sending messages](https://github.com/c4arl0s/2ObjectiveC#4-sending-messages)
-5. [x] [5. Destroying objects](https://github.com/c4arl0s/2ObjectiveC#5-destroying-objects)
-6. [x] [6. Writing the RandomPossession tool](https://github.com/c4arl0s/2ObjectiveC#6-writing-the-randompossession-tool)
-7. [x] [7. NSString](https://github.com/c4arl0s/2ObjectiveC#7-nsstring)
-8. [x] [8. NSArray and NSMutableArray](https://github.com/c4arl0s/2ObjectiveC#8-nsarray-and-nsmutablearray)
-9. [x] [9. Subclassing an Objective-C class](https://github.com/c4arl0s/2ObjectiveC#9-subclassing-an-objective-c-class)
-10. [x] [10. Instance variables](https://github.com/c4arl0s/2ObjectiveC#10-instance-variables)
-11. [x] [11. Accessor methods](https://github.com/c4arl0s/2ObjectiveC#11-accessor-methods)
-12. [x] [12. Instance methods](https://github.com/c4arl0s/2ObjectiveC#12-instance-methods)
-13. [x] [13. Initiazers](https://github.com/c4arl0s/2ObjectiveC#13-initiazers)
-14. [x] [14. id](https://github.com/c4arl0s/2ObjectiveC#14-id)
-15. [x] [15. isa](https://github.com/c4arl0s/2ObjectiveC#15-isa)
-16. [x] [16. Implementing the designated initializer](https://github.com/c4arl0s/2ObjectiveC#16-implementing-the-designated-initializer)
-17. [x] [17. self](https://github.com/c4arl0s/2ObjectiveC#17-self)
-18. [x] [18. super](https://github.com/c4arl0s/2ObjectiveC#18-super)
-19. [x] [19. Other initializer and the initializer chain](https://github.com/c4arl0s/2ObjectiveC#19-other-initializer-and-the-initializer-chain)
-20. [x] [20. class methods](https://github.com/c4arl0s/2ObjectiveC#20-class-methods)
-21. [x] [21. Testing your subclass](https://github.com/c4arl0s/2ObjectiveC#21-testing-your-subclass)
-22. [x] [22. Exceptions and the console window](https://github.com/c4arl0s/2ObjectiveC#22-exceptions-and-the-console-window)
-23. [x] [23. Fast enumeration](https://github.com/c4arl0s/2ObjectiveC#23-fast-enumeration)
-24. [x] [24. Challenge](https://github.com/c4arl0s/2ObjectiveC#24-challenge)
-
-</p>
-</details>
 
 1. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
+2. [x] [if statement](https://github.com/c4arl0s/if#snippets-for-if-sentence) 
+3. [x] [while loop](https://github.com/c4arl0s/while)
+4. [x] [for loop](https://github.com/c4arl0s/for)
+4. [x] [grep](https://github.com/c4arl0s/grep)
+5. [x] [sed](https://github.com/c4arl0s/sed)
+6. [x] [tr](https://github.com/c4arl0s/tr)
+7. [x] [let](https://github.com/c4arl0s/let)
+8. [x] [cut](https://github.com/c4arl0s/cut)
+9. [x] [find](https://github.com/c4arl0s/find)
 
-<details><summary>C Programming Language Notes</summary>
+</p>
+</details>
+
+<details><summary>C programming language, lectures, notes.</summary>
 <p>
-
-* C Programming Language Notes:
-
-Lectures, notes, code and documentation about C programming language.
 
 1. [x] [Understanding And Using C Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)  
 2. [x] [Representing and Manipulating Information with C](https://github.com/c4arl0s/2RepresentingAndManipulatingInformation#2-representing-and-manipulating-information---content)
 3. [x] [Optimizing Program Performance with C](https://github.com/c4arl0s/ComputerSystemsAProgrammersPerspectiveContentIndex#5-optimizing-program-performance)
 2. [x] [Learn C on The Mac For OSX and iOS](https://github.com/c4arl0s/Learn_C_onTheMacForOSXandiOS#learn_c_onthemacforosxandios) 
-3. [ ] [Numerical Analysis With C Programming Language](https://github.com/c4arl0s/NumericalAnalysisWithCProgrammingLanguage#numerical-analysis-with-c-programming-language---content)
+4. [ ] [Numerical Analysis With C Programming Language](https://github.com/c4arl0s/NumericalAnalysisWithCProgrammingLanguage#numerical-analysis-with-c-programming-language---content)
 
 </p>
 </details>

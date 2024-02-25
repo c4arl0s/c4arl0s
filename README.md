@@ -102,6 +102,27 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 # Courses
 
+<details><summary>iOS Development Courses / SwiftUI</summary>
+<p>
+
+* iOS Development Courses / SwiftUI during self study time.
+
+1. [ ] [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#introducing-swiftui)
+
+</p>
+</details>
+
+<details><summary>Test Driven Development on iOS</summary>
+<p>
+
+* Test Driven Development on iOS:
+
+1. [ ] [iOS Code Testing](https://github.com/c4arl0s/iOS-Code-Testing#ios-code-testing)
+2. [ ] [Pro iOS Testing](https://github.com/c4arl0s/Pro-iOS-Testing#pro-ios-testing)
+
+</p>
+</details>
+
 <details><summary>iOS Development Courses / Using Swift and UIKit</summary>
 <p>
 
@@ -111,7 +132,7 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 2. [x] [Practical Autolayout](https://github.com/c4arl0s/PracticalAutoLayoutXcode8#practical-autolayout---xcode-8) (Interesting book about how to demystify Autolayout)
 3. [x] [Learn to Code in Swift](https://github.com/c4arl0s/LearnToCodeInSwift4#learn-to-code-in-swift-4---content) (Interesting way to teach Swift using iOS projects created by the author, It is a must)
 4. [x] [Apple iOS Swift Unit Testing](https://github.com/c4arl0s/LearnAppleiOSSwiftUnitTesting#learn-apple-ios-swift-unit-testing---content) (First approach)
-5. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/App-Development-With-Swift#4-building-ar-apps-with-xcode)
+5. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/App-Development-With-Swift?tab=readme-ov-file#4-building-ar-apps-with-xcode)
 6. [x] [Generics](https://github.com/c4arl0s/22GenericsInTheRealWorld#22-generics-in-the-real-world---content) (Important chapter provided by Learn to Code in Swift book)
 7. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
 8. [x] [CoreGraphics](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#8-core-graphics)
@@ -139,16 +160,6 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </p>
 </details>
 
-<details><summary>iOS Development Courses / SwiftUI</summary>
-<p>
-
-* iOS Development Courses / SwiftUI during self study time.
-
-1. [ ] [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#introducing-swiftui)
-
-</p>
-</details>
-
 <details><summary>iOS Design Patterns in Swift</summary>
 <p>
 
@@ -162,31 +173,6 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 1. [x] [The Model-View-ViewModel Architectural Pattern](https://github.com/c4arl0s/3-The-MVVM-Architectural-Pattern#--the-model-view-viewmodel-architectural-pattern)
 2. [ ] [MVVM](https://github.com/c4arl0s/MVVM#mvvm---content)
-
-<img width="1012" alt="Screen Shot 2022-09-22 at 12 32 38 a m" src="https://user-images.githubusercontent.com/24994818/191666057-71e1ae5c-e417-4f42-bded-8aecc9a78fb5.png">
-
-<img width="449" alt="Screen Shot 2022-09-01 at 1 39 32 a m" src="https://user-images.githubusercontent.com/24994818/187848385-19f517ed-f362-4754-a0e8-6ad3567f1f8c.png">
-
-<img width="453" alt="Screen Shot 2022-09-01 at 1 40 45 a m" src="https://user-images.githubusercontent.com/24994818/187848582-a70c893b-7c71-4234-b074-2a5114945654.png">
-
-<img width="524" alt="Screen Shot 2022-09-01 at 1 23 55 a m" src="https://user-images.githubusercontent.com/24994818/187845992-20c85360-96d8-44da-821c-2a3eff6deee1.png">
-
-<img width="629" alt="Screen Shot 2022-09-01 at 1 17 09 a m" src="https://user-images.githubusercontent.com/24994818/187845112-58132134-54cd-41d3-bf98-db4c339276e0.png">
-
-<img width="626" alt="Screen Shot 2022-09-01 at 1 16 53 a m" src="https://user-images.githubusercontent.com/24994818/187845125-0e943a1b-cadb-4f52-9c86-080d27ddfe72.png">
-
-<img width="626" alt="Screen Shot 2022-09-01 at 1 31 26 a m" src="https://user-images.githubusercontent.com/24994818/187847137-8effefc5-953f-4f13-a66d-359bf8488a01.png">
-
-</p>
-</details>
-
-<details><summary>Test Driven Development on iOS</summary>
-<p>
-
-* Test Driven Development on iOS:
-
-1. [ ] [iOS Code Testing](https://github.com/c4arl0s/iOS-Code-Testing#ios-code-testing)
-2. [ ] [Pro iOS Testing](https://github.com/c4arl0s/Pro-iOS-Testing#pro-ios-testing)
 
 </p>
 </details>
@@ -401,7 +387,7 @@ In Concurrency, a major task is divided into subtask that execute simultaneously
 * Microprocessors and MicroControllers: Notes about how a microprocessor and a microcontrollers work.
 
 1. [x] [Inside The Machine](https://github.com/c4arl0s/InsideTheMachine#inside-the-machine) 
-2. [x] [Microprocessorsi And Microcontrollers](https://github.com/c4arl0s/MicroprocessorsAndMicrocontrollers) 
+2. [x] [Microprocessors And Microcontrollers](https://github.com/c4arl0s/MicroprocessorsAndMicrocontrollers) 
 
 </p>
 </details>

@@ -123,6 +123,14 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </p>
 </details>
 
+<details><summary>iOS Design Patterns in Swift</summary>
+<p>
+
+1. [ ] [Pro Design Patterns in Swift](https://github.com/c4arl0s/Pro-Design-Patterns-in-Swift)
+
+</p>
+</details>
+
 <details><summary>iOS Development Courses / Using Swift and UIKit</summary>
 <p>
 
@@ -156,14 +164,6 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 6. [x] [Frameworks, Libraries and Targets](https://github.com/c4arl0s/9FrameworksLibrariesAndTargets#frameworks-libraries-and-targets---content)
 
 * Frameworks used: UIKit, CoreData, CoreLocation, UIAccelerometer (deprecate), AVFoundation, Speech.
-
-</p>
-</details>
-
-<details><summary>iOS Design Patterns in Swift</summary>
-<p>
-
-1. [ ] [Pro Design Patterns in Swift](https://github.com/c4arl0s/Pro-Design-Patterns-in-Swift)
 
 </p>
 </details>

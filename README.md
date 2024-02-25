@@ -105,17 +105,23 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 <details><summary>iOS Development Courses / SwiftUI</summary>
 <p>
 
-* iOS Development Courses / SwiftUI during self study time.
-
 1. [ ] [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#introducing-swiftui)
+
+</p>
+</details>
+
+
+<details><summary>Combine</summary>
+
+<p>
+
+1. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
 
 </p>
 </details>
 
 <details><summary>Test Driven Development on iOS</summary>
 <p>
-
-* Test Driven Development on iOS:
 
 1. [ ] [iOS Code Testing](https://github.com/c4arl0s/iOS-Code-Testing#ios-code-testing)
 2. [ ] [Pro iOS Testing](https://github.com/c4arl0s/Pro-iOS-Testing#pro-ios-testing)
@@ -145,7 +151,6 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 7. [ ] [Swift Style](https://github.com/c4arl0s/SwiftStyle#swift-style---content) (Summary of recommendations about how to write Swift style code)
 8. [x] [CoreGraphics](https://github.com/c4arl0s/AppDevelopmentWithSwiftGeneralIndex#8-core-graphics)
 9. [x] [Protocols](https://github.com/c4arl0s/Swift-Protocols#swift-protocols---content) Importan information from Swift documentation.
-10. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
 
 * Frameworks used: UIKit, CoreData, ARKit, CoreGraphics, CoreLocation, CoreMotion, MapKit, AVFoundation, QuartzCore, SafariServices, SceneKit, Speech. 
 </p>

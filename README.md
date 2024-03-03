@@ -100,7 +100,7 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </p>
 </details>
 
-# Courses
+# Lectures
 
 <details><summary>iOS Development Courses / SwiftUI</summary>
 <p>
@@ -161,8 +161,7 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 * iOS Development Courses using Objective-C during self-study time.
 
-1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingadvace_objectivec) 
-2. [x] [Objective-C Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
+1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingNotesC Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
 3. [ ] [Beginning Xcode](https://github.com/c4arl0s/BeginningXcodeContentIndex#beginning-xcode)
 4. [ ] [Using Speech Framework](https://github.com/c4arl0s/RecognizingSpeechInLiveAudio#recognizingspeechinliveaudio)
 5. [ ] [Grand Central Dispatch](https://github.com/c4arl0s/15GrandCentralDispatchBackgroundProcessingAndYou#15-grand-central-dispatch-background-processing-and-you---content)
@@ -182,7 +181,19 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </p>
 </details>
 
-# Skills / Programming Languages / notes
+<details><summary>C programming language</summary>
+<p>
+
+1. [x] [Understanding And Using C Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)  
+2. [x] [Representing and Manipulating Information with C](https://github.com/c4arl0s/2RepresentingAndManipulatingInformation#2-representing-and-manipulating-information---content)
+3. [x] [Optimizing Program Performance with C](https://github.com/c4arl0s/ComputerSystemsAProgrammersPerspectiveContentIndex#5-optimizing-program-performance)
+2. [x] [Learn C on The Mac For OSX and iOS](https://github.com/c4arl0s/Learn_C_onTheMacForOSXandiOS#learn_c_onthemacforosxandios) 
+4. [ ] [Numerical Analysis With C Programming Language](https://github.com/c4arl0s/NumericalAnalysisWithCProgrammingLanguage#numerical-analysis-with-c-programming-language---content)
+
+</p>
+</details>
+
+# Notes
 
 <details><summary>Bash Scripts</summary>
 <p>
@@ -197,18 +208,6 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 7. [x] [let](https://github.com/c4arl0s/let)
 8. [x] [cut](https://github.com/c4arl0s/cut)
 9. [x] [find](https://github.com/c4arl0s/find)
-
-</p>
-</details>
-
-<details><summary>C programming language, lectures, notes.</summary>
-<p>
-
-1. [x] [Understanding And Using C Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)  
-2. [x] [Representing and Manipulating Information with C](https://github.com/c4arl0s/2RepresentingAndManipulatingInformation#2-representing-and-manipulating-information---content)
-3. [x] [Optimizing Program Performance with C](https://github.com/c4arl0s/ComputerSystemsAProgrammersPerspectiveContentIndex#5-optimizing-program-performance)
-2. [x] [Learn C on The Mac For OSX and iOS](https://github.com/c4arl0s/Learn_C_onTheMacForOSXandiOS#learn_c_onthemacforosxandios) 
-4. [ ] [Numerical Analysis With C Programming Language](https://github.com/c4arl0s/NumericalAnalysisWithCProgrammingLanguage#numerical-analysis-with-c-programming-language---content)
 
 </p>
 </details>

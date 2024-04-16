@@ -68,12 +68,14 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 3. [x] [git-add-with-filter-ui.sh: It uses a dialog box to add modified and untracked files with a filter to the staged area](https://github.com/c4arl0s/git-add-with-filter-ui#git-add-with-filter-ui)
 4. [x] [git-restore-ui.sh: It uses a dialog box to restore files that are located in staged area](https://github.com/c4arl0s/git-restore-user-interface-script#git-restore-user-interface-script)
 5. [x] [git-restore-with-filter-ui.sh: It uses a dialog box to restore files using a filter that are located in staged area](https://github.com/c4arl0s/git-restore-with-filter-ui)
-6. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/DictEnEsScript)
-7. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/DictEnEsScript)
-8. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/rm-dot-DS_Store-files-recursively)
-9. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/verify-status-of-current-repositories)
-10. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/extract-images-from-pdf-files)
-11. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/rename-files)
+6. [x] [git-status-with-filter.sh: It shows you status files selected by extension](https://github.com/c4arl0s/git-status-with-filter?tab=readme-ov-file#git-status-with-filter)
+7. [x] [git-diff-with-filter.sh: It shows you files differences selected by extension](https://github.com/c4arl0s/git-diff-with-filter?tab=readme-ov-file#git-diff-with-filter)
+8. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/DictEnEsScript)
+9. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/DictEnEsScript)
+10. [x] [rmDotDSStoreScript.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/rm-dot-DS_Store-files-recursively)
+11. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/verify-status-of-current-repositories)
+12. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/extract-images-from-pdf-files)
+13. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/rename-files)
 
 </p>
 </details>

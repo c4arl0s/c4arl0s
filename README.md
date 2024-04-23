@@ -195,9 +195,20 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </p>
 </details>
 
+# Version Control System
+
+<details><summary>Version Control System - Git</summary>
+<p>
+
+1. [x] [Version Control Git (Notes)](https://github.com/c4arl0s/RysGitTutorial#rys-git-tutorial)
+2. [x] [Summary git commands](https://github.com/c4arl0s/Summary-git-commands#summary-git-commands)
+
+</p>
+</details>
+
 # Notes
 
-<details><summary>Bash Scripts</summary>
+<details><summary>Bash</summary>
 <p>
 
 1. [x] [Bash Cheat Sheet](https://github.com/c4arl0s/BashCheatSheet#bashcheatsheet)
@@ -210,11 +221,13 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 7. [x] [let](https://github.com/c4arl0s/let)
 8. [x] [cut](https://github.com/c4arl0s/cut)
 9. [x] [find](https://github.com/c4arl0s/find)
+10. [x] [sort](https://github.com/c4arl0s/sort?tab=readme-ov-file#sort)
+11. [x] [getopts](https://github.com/c4arl0s/getopts?tab=readme-ov-file#getopts12. [x] [set](https://github.com/c4arl0s/Set?tab=readme-ov-file#set)
 
 </p>
 </details>
 
-<details><summary>C programs</summary>
+<details><summary>C</summary>
 <p>
 
 * C programs:
@@ -253,17 +266,6 @@ Lectures, code and documentation about data bases.
 1. [x] [SQLite For Mobil Apps Simplified](https://github.com/c4arl0s/SQLiteForMobileAppsSimplified#sqlite3_notes) 
 2. [ ] [Designing Data Intensive Applications](https://github.com/c4arl0s/DesigningDataIntensiveApplications#designing-data-intensive-applications) 
 3. [x] [Introducing SQLite for Mobile Developers](https://github.com/c4arl0s/SQLiteForMobilDevelopers#sqliteformobildevelopers) 
-
-</p>
-</details>
-
-# Version Control System
-
-<details><summary>Version Control System - Git</summary>
-<p>
-
-1. [x] [Version Control Git (Notes)](https://github.com/c4arl0s/RysGitTutorial#rys-git-tutorial)
-2. [x] [Summary git commands](https://github.com/c4arl0s/Summary-git-commands#summary-git-commands)
 
 </p>
 </details>

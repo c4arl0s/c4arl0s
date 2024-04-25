@@ -163,7 +163,7 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 * iOS Development Courses using Objective-C during self-study time.
 
-1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#iosprogrammingNotesC Programming (Using ARC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
+1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
 3. [ ] [Beginning Xcode](https://github.com/c4arl0s/BeginningXcodeContentIndex#beginning-xcode)
 4. [ ] [Using Speech Framework](https://github.com/c4arl0s/RecognizingSpeechInLiveAudio#recognizingspeechinliveaudio)
 5. [ ] [Grand Central Dispatch](https://github.com/c4arl0s/15GrandCentralDispatchBackgroundProcessingAndYou#15-grand-central-dispatch-background-processing-and-you---content)
@@ -222,7 +222,7 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 8. [x] [cut](https://github.com/c4arl0s/cut)
 9. [x] [find](https://github.com/c4arl0s/find)
 10. [x] [sort](https://github.com/c4arl0s/sort?tab=readme-ov-file#sort)
-11. [x] [getopts](https://github.com/c4arl0s/getopts?tab=readme-ov-file#getopts12. [x] [set](https://github.com/c4arl0s/Set?tab=readme-ov-file#set)
+11. [x] [set](https://github.com/c4arl0s/Set?tab=readme-ov-file#set)
 
 </p>
 </details>

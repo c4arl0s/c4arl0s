@@ -22,7 +22,7 @@ If you want to contribute send me an email: c.santiago.cruz@icloud.com, so I cou
 11. [x] [verifyStatus.sh: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/verify-status-of-current-repositories)
 12. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/extract-images-from-pdf-files)
 13. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/rename-files)
-14. [x] [git-delete-branches-ui.sh: script uses an user interface to delete branches](https://github.com/c4arl0s/git-delete-branches-ui)
+14. [x] [git-branch-delete-ui.sh: script uses an user interface to delete branches](https://github.com/c4arl0s/git-branch-delete-ui)
 
 </p>
 </details>

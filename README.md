@@ -255,6 +255,62 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </p>
 </details>
 
+# Computer Systems
+
+<details><summary>Computer Systems</summary>
+<p>
+
+* Notes about computer systems engineering from programming perspective.
+
+1. [x] [Computer Systems - A Programmers Perspective](https://github.com/c4arl0s/ComputerSystems_aProgrammersPerspective#computer-systems---a-programmers-perspective) 
+2. [x] [Computer Organization and Design Fundamentals](https://github.com/c4arl0s/ComputerOrganization-DesignFundamentals#computer-organization-and-design-fundamentals) 
+
+### Concurrency
+
+Concurrency is a mechanism that decreases the response time of the system by using a single process unit. 
+
+In Concurrency, a major task is divided into subtask that execute simultaneously but not at the same time. A good example of concurrency is having multiple applications, like a Chrome browser, a video editor, and iTunes running at the same time in an operating system. 
+
+<img width="499" alt="Concurrency" src="https://user-images.githubusercontent.com/24994818/187840751-d72c4d3c-d723-4267-98b3-e8b37f5a46fd.png">
+
+### Parallelism
+
+* Parallelism is a mechanism that increases computational speed by using multiple processors. In parallelism, tasks execute simultaneously and at the same time. A good example of parallelism is running a video editor that has many task to perform simultaneoulsy.
+
+<img width="488" alt="Paralellism" src="https://user-images.githubusercontent.com/24994818/187840796-a3d589f8-3db1-48e1-ab90-7db7991cd097.png">
+
+</p>
+</details>
+
+# Operating Systems
+
+<details><summary>Operating Systems</summary>
+<p>
+
+* Unix:
+
+<div>
+<img src="https://user-images.githubusercontent.com/24994818/210193606-ee625a97-d5a2-4e1d-8bdf-0515eb24ac06.jpg" width="500" height="300"/>
+</div>
+
+1. [x] [Unix](https://github.com/c4arl0s/Unix#bashcheatsheet) 
+
+</p>
+</details>
+
+# Microprocessors and Microcontrollers
+
+<details><summary>Microprocessors and MicroControllers</summary>
+<p>
+
+* Microprocessors and MicroControllers: Notes about how a microprocessor and a microcontrollers work.
+
+1. [x] [Inside The Machine](https://github.com/c4arl0s/InsideTheMachine#inside-the-machine) 
+2. [x] [Microprocessors And Microcontrollers](https://github.com/c4arl0s/MicroprocessorsAndMicrocontrollers) 
+
+</p>
+</details>
+
 # Databases
 
 <details><summary>Data Bases</summary>
@@ -263,6 +319,62 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 * Data Bases:
 
 Lectures, code and documentation about data bases.
+
+# Computer Systems
+
+<details><summary>Computer Systems</summary>
+<p>
+
+* Notes about computer systems engineering from programming perspective.
+
+1. [x] [Computer Systems - A Programmers Perspective](https://github.com/c4arl0s/ComputerSystems_aProgrammersPerspective#computer-systems---a-programmers-perspective) 
+2. [x] [Computer Organization and Design Fundamentals](https://github.com/c4arl0s/ComputerOrganization-DesignFundamentals#computer-organization-and-design-fundamentals) 
+
+### Concurrency
+
+Concurrency is a mechanism that decreases the response time of the system by using a single process unit. 
+
+In Concurrency, a major task is divided into subtask that execute simultaneously but not at the same time. A good example of concurrency is having multiple applications, like a Chrome browser, a video editor, and iTunes running at the same time in an operating system. 
+
+<img width="499" alt="Concurrency" src="https://user-images.githubusercontent.com/24994818/187840751-d72c4d3c-d723-4267-98b3-e8b37f5a46fd.png">
+
+### Parallelism
+
+* Parallelism is a mechanism that increases computational speed by using multiple processors. In parallelism, tasks execute simultaneously and at the same time. A good example of parallelism is running a video editor that has many task to perform simultaneoulsy.
+
+<img width="488" alt="Paralellism" src="https://user-images.githubusercontent.com/24994818/187840796-a3d589f8-3db1-48e1-ab90-7db7991cd097.png">
+
+</p>
+</details>
+
+# Operating Systems
+
+<details><summary>Operating Systems</summary>
+<p>
+
+* Unix:
+
+<div>
+<img src="https://user-images.githubusercontent.com/24994818/210193606-ee625a97-d5a2-4e1d-8bdf-0515eb24ac06.jpg" width="500" height="300"/>
+</div>
+
+1. [x] [Unix](https://github.com/c4arl0s/Unix#bashcheatsheet) 
+
+</p>
+</details>
+
+# Microprocessors and Microcontrollers
+
+<details><summary>Microprocessors and MicroControllers</summary>
+<p>
+
+* Microprocessors and MicroControllers: Notes about how a microprocessor and a microcontrollers work.
+
+1. [x] [Inside The Machine](https://github.com/c4arl0s/InsideTheMachine#inside-the-machine) 
+2. [x] [Microprocessors And Microcontrollers](https://github.com/c4arl0s/MicroprocessorsAndMicrocontrollers) 
+
+</p>
+</details>
 
 1. [x] [SQLite For Mobil Apps Simplified](https://github.com/c4arl0s/SQLiteForMobileAppsSimplified#sqlite3_notes) 
 2. [ ] [Designing Data Intensive Applications](https://github.com/c4arl0s/DesigningDataIntensiveApplications#designing-data-intensive-applications) 
@@ -341,62 +453,6 @@ Lectures, code and documentation about data bases.
 4. [ ] [English Language](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 5. [x] [Must-Have English Phrases for Online Meetings](https://github.com/c4arl0s/Must-Have-English-Phrases-for-Online-Meetings#must-have-english-phrases-for-online-meetings)
 6. [x] [10 Words to use right now at work in English](https://github.com/c4arl0s/10-Words-to-Use-Right-Now-at-Work-in-English#10-words-to-use-right-now-at-work-in-english)
-
-</p>
-</details>
-
-# Computer Systems
-
-<details><summary>Computer Systems</summary>
-<p>
-
-* Notes about computer systems engineering from programming perspective.
-
-1. [x] [Computer Systems - A Programmers Perspective](https://github.com/c4arl0s/ComputerSystems_aProgrammersPerspective#computer-systems---a-programmers-perspective) 
-2. [x] [Computer Organization and Design Fundamentals](https://github.com/c4arl0s/ComputerOrganization-DesignFundamentals#computer-organization-and-design-fundamentals) 
-
-### Concurrency
-
-Concurrency is a mechanism that decreases the response time of the system by using a single process unit. 
-
-In Concurrency, a major task is divided into subtask that execute simultaneously but not at the same time. A good example of concurrency is having multiple applications, like a Chrome browser, a video editor, and iTunes running at the same time in an operating system. 
-
-<img width="499" alt="Concurrency" src="https://user-images.githubusercontent.com/24994818/187840751-d72c4d3c-d723-4267-98b3-e8b37f5a46fd.png">
-
-### Parallelism
-
-* Parallelism is a mechanism that increases computational speed by using multiple processors. In parallelism, tasks execute simultaneously and at the same time. A good example of parallelism is running a video editor that has many task to perform simultaneoulsy.
-
-<img width="488" alt="Paralellism" src="https://user-images.githubusercontent.com/24994818/187840796-a3d589f8-3db1-48e1-ab90-7db7991cd097.png">
-
-</p>
-</details>
-
-# Operating Systems
-
-<details><summary>Operating Systems</summary>
-<p>
-
-* Unix:
-
-<div>
-<img src="https://user-images.githubusercontent.com/24994818/210193606-ee625a97-d5a2-4e1d-8bdf-0515eb24ac06.jpg" width="500" height="300"/>
-</div>
-
-1. [x] [Unix](https://github.com/c4arl0s/Unix#bashcheatsheet) 
-
-</p>
-</details>
-
-# Microprocessors and Microcontrollers
-
-<details><summary>Microprocessors and MicroControllers</summary>
-<p>
-
-* Microprocessors and MicroControllers: Notes about how a microprocessor and a microcontrollers work.
-
-1. [x] [Inside The Machine](https://github.com/c4arl0s/InsideTheMachine#inside-the-machine) 
-2. [x] [Microprocessors And Microcontrollers](https://github.com/c4arl0s/MicroprocessorsAndMicrocontrollers) 
 
 </p>
 </details>

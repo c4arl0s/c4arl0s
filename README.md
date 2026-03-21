@@ -23,6 +23,7 @@ If you want to contribute send me an email: c.santiago.cruz@icloud.com, so I cou
 12. [x] [extractImagesFromPdfFiles.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/extract-images-from-pdf-files)
 13. [x] [renameAllFiles.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/rename-files)
 14. [x] [git-branch-delete-ui.sh: script uses an user interface to delete branches](https://github.com/c4arl0s/git-branch-delete-ui)
+15. [x] [ffmpg-mov-to-mp4.sh: Basic script to convert a mov file to an mp4 file just by taking the full path of a file as parameter](https://github.com/c4arl0s/ffmpg-mov-to-mp4)
 
 </p>
 </details>
@@ -31,7 +32,7 @@ If you want to contribute send me an email: c.santiago.cruz@icloud.com, so I cou
 
 * List of apps I developed during diploma course and self-study time.
 
-1. [x] [Photorama](https://github.com/c4arl0s/Photorama-App-Presentation#photorama-app). It makes a web service request to get photos.
+1. [x] [Photorama](https://github.com/c4arl0s/21CollectionView_PhotoramaApp). It makes a web service request to get photos.
 2. [x] [Restaurant](https://github.com/c4arl0s/Restaurant-App-Presentation#restaurant-app). Interactive restaurant menu that displays offerings, adds orders and sent order request.
 3. [x] [List](https://github.com/c4arl0s/List-App-Presentation#guided-project-list-todolistapp). Display, add, delete and save a list of tasks.
 4. [x] [Homepwner](https://github.com/c4arl0s/Homepwner-App-Presentation#homepwner-app) It keeps an inventory of all your possessions. It saves name, serial#, value and a picture.

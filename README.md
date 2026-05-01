@@ -9,21 +9,21 @@ If you want to contribute send me an email: c.santiago.cruz@icloud.com, so I cou
 
 * List of bash scripts I wrote to speed up my developments
 
-1. [x] [readme-navigator.sh: Create a table of contents given a txt file](https://github.com/c4arl0s/create-table-of-contents)
+1. [x] [readmefy.sh: Create a table of contents given a txt file](https://github.com/c4arl0s/readmefy)
 2. [x] [git-add-ui.sh: It uses a dialog box to add modified and untracked files to the staged area](https://github.com/c4arl0s/git-add-user-interface-script#git-add-user-interface-script)
-3. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/DictEnEsScript)
-4. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/DictEnEsScript)
-5. [x] [statusfy: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/verify-status-of-current-repositories)
+3. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/trad3)
+4. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/trad3)
+5. [x] [statusfy: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/statusfy)
 6. [x] [ffmpg-mov-to-mp4.sh: Basic script to convert a mov file to an mp4 file just by taking the full path of a file as parameter](https://github.com/c4arl0s/ffmpg-mov-to-mp4)
-7. [x] [git-add-with-filter-ui.sh: It uses a dialog box to add modified and untracked files with a filter to the staged area](https://github.com/c4arl0s/git-add-with-filter-ui#git-add-with-filter-ui)
-8. [x] [git-restore-ui.sh: It uses a dialog box to restore files that are located in staged area](https://github.com/c4arl0s/git-restore-user-interface-script#git-restore-user-interface-script)
-9. [x] [git-restore-with-filter-ui.sh: It uses a dialog box to restore files using a filter that are located in staged area](https://github.com/c4arl0s/git-restore-with-filter-ui)
-10. [x] [git-status-with-filter.sh: It shows you status files selected by extension](https://github.com/c4arl0s/git-status-with-filter?tab=readme-ov-file#git-status-with-filter)
-11. [x] [git-diff-with-filter.sh: It shows you files differences selected by extension](https://github.com/c4arl0s/git-diff-with-filter?tab=readme-ov-file#git-diff-with-filter)
-12. [x] [remove-dot-ds-store-files.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/rm-dot-DS_Store-files-recursively)
-13. [x] [extract-images-from-pdf-files.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/extract-images-from-pdf-files)
-14. [x] [rename-files.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/rename-files)
-15. [x] [git-branch-delete-ui.sh: script uses an user interface to delete branches](https://github.com/c4arl0s/git-branch-delete-ui)
+7. [x] [dscleaner.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/dscleaner)
+8. [x] [pdf2imgx.sh: Extract Images from a pdf file recursively](https://github.com/c4arl0s/pdf2imgx)
+9. [x] [rename-files.sh: rename all files and directories in the current directory recursively](https://github.com/c4arl0s/rename-files)
+10. [x] [git-branch-delete-ui.sh: script uses an user interface to delete branches](https://github.com/c4arl0s/git-branch-delete-ui)
+11. [x] [git-add-with-filter-ui.sh: It uses a dialog box to add modified and untracked files with a filter to the staged area](https://github.com/c4arl0s/git-add-with-filter-ui#git-add-with-filter-ui)
+12. [x] [git-restore-ui.sh: It uses a dialog box to restore files that are located in staged area](https://github.com/c4arl0s/git-restore-user-interface-script#git-restore-user-interface-script)
+13. [x] [git-restore-with-filter-ui.sh: It uses a dialog box to restore files using a filter that are located in staged area](https://github.com/c4arl0s/git-restore-with-filter-ui)
+14. [x] [git-status-with-filter.sh: It shows you status files selected by extension](https://github.com/c4arl0s/git-status-with-filter?tab=readme-ov-file#git-status-with-filter)
+15. [x] [git-diff-with-filter.sh: It shows you files differences selected by extension](https://github.com/c4arl0s/git-diff-with-filter?tab=readme-ov-file#git-diff-with-filter)
 
 </p>
 </details>

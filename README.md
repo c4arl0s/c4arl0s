@@ -24,6 +24,7 @@ If you want to contribute send me an email: c.santiago.cruz@icloud.com, so I cou
 13. [x] [git-restore-with-filter-ui.sh: It uses a dialog box to restore files using a filter that are located in staged area](https://github.com/c4arl0s/git-restore-with-filter-ui)
 14. [x] [git-status-with-filter.sh: It shows you status files selected by extension](https://github.com/c4arl0s/git-status-with-filter?tab=readme-ov-file#git-status-with-filter)
 15. [x] [git-diff-with-filter.sh: It shows you files differences selected by extension](https://github.com/c4arl0s/git-diff-with-filter?tab=readme-ov-file#git-diff-with-filter)
+16. [x] [rm.sh: It overrides rm command in order to avoid deleting important files. It only delete one file and It is moved to .Trash directory.](https://github.com/c4arl0s/rm)
 
 </p>
 </details>

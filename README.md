@@ -11,8 +11,8 @@ If you want to contribute send me an email: c.santiago.cruz@icloud.com, so I cou
 
 1. [x] [readmefy.sh: Create a table of contents given a txt file](https://github.com/c4arl0s/readmefy)
 2. [x] [git-add-ui.sh: It uses a dialog box to add modified and untracked files to the staged area](https://github.com/c4arl0s/git-add-user-interface-script#git-add-user-interface-script)
-3. [x] [trad3.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/trad3)
-4. [x] [add3.sh: included in trad3.sh repository](https://github.com/c4arl0s/trad3)
+3. [x] [lookup.sh: It was created back in my student days to retrieve english/spanish words](https://github.com/c4arl0s/lookup)
+4. [x] [addword.sh: included in lookup repository](https://github.com/c4arl0s/lookup)
 5. [x] [statusfy: It was created to remember me if a repository has changes or files are untracked](https://github.com/c4arl0s/statusfy)
 6. [x] [ffmpg-mov-to-mp4.sh: Basic script to convert a mov file to an mp4 file just by taking the full path of a file as parameter](https://github.com/c4arl0s/ffmpg-mov-to-mp4)
 7. [x] [dscleaner.sh: Remove .DS_Store files recursively](https://github.com/c4arl0s/dscleaner)

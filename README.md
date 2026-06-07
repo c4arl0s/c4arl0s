@@ -83,7 +83,9 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </details>
 
 
-# Diploma Courses
+# Career Path for iOS Development
+
+### Diploma Courses
 
 <details><summary>Advanced iOS and Android Development / UNAM DGTIC 2023, 240 hours</summary>
 <p>
@@ -100,36 +102,27 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 
 * Diploma Course at [iOS Development Lab, UNAM](http://ioslab.ingenieria.unam.mx/diplomado.html) 2nd Generation, 2019.
 
-1. [x] [Mobile Application Development - UNAM 2019, 240 hours](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
+2. [x] [Mobile Application Development - UNAM 2019, 240 hours](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift) 
+
+</p>
+</details> 
+
+### Online and book courses
+
+<details><summary>Introducing SwiftUI</summary>
+<p>
+
+3. [ ] [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#introducing-swiftui)
 
 </p>
 </details>
 
-# Lectures
 
-<details><summary>iOS Development Courses / SwiftUI</summary>
-<p>
-
-1. [ ] [Introducing SwiftUI](https://github.com/c4arl0s/IntroducingSwiftUI#introducing-swiftui)
-
-</p>
-</details>
-
-
-<details><summary>Combine</summary>
+<details><summary>Combine Asynchronous Programming with Swift</summary>
 
 <p>
 
-1. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
-
-</p>
-</details>
-
-<details><summary>Test Driven Development on iOS</summary>
-<p>
-
-1. [ ] [iOS Code Testing](https://github.com/c4arl0s/iOS-Code-Testing#ios-code-testing)
-2. [ ] [Pro iOS Testing](https://github.com/c4arl0s/Pro-iOS-Testing#pro-ios-testing)
+4. [ ] [Combine Asynchronous Programming with Swift](https://github.com/c4arl0s/CombineAsynchronousProgrammingWithSwift#combine-asynchronous-programming-with-swift---content)
 
 </p>
 </details>
@@ -137,12 +130,49 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 <details><summary>iOS Design Patterns in Swift</summary>
 <p>
 
-1. [ ] [Pro Design Patterns in Swift](https://github.com/c4arl0s/Pro-Design-Patterns-in-Swift)
+5. [ ] [Pro Design Patterns in Swift](https://github.com/c4arl0s/Pro-Design-Patterns-in-Swift)
 
 </p>
 </details>
 
-<details><summary>iOS Development Courses / Using Swift and UIKit</summary>
+# Career Path for iOS Testing
+
+### Lectures 
+
+<details><summary>iOS Code Testing</summary>
+<p>
+
+* iOS Code Testing
+
+1. [ ] [iOS Code Testing](https://github.com/c4arl0s/iOS-Code-Testing#ios-code-testing)
+
+</p>
+</details>
+
+<details><summary>Pro iOS Testing</summary>
+<p>
+
+* Pro iOS Testing
+
+2. [ ] [Pro iOS Testing](https://github.com/c4arl0s/Pro-iOS-Testing#pro-ios-testing)
+
+</p>
+</details>
+
+<details><summary>Learn Apple iOS Swift Unit Testing</summary>
+<p>
+
+* Pro iOS Testing
+
+3. [ ] [Learn Apple iOS Swift Unit Testing](https://github.com/c4arl0s/LearnAppleiOSSwiftUnitTesting#learn-apple-ios-swift-unit-testing---content)
+
+</p>
+</details>
+
+
+# Lectures
+
+<details><summary>iOS Development Lectures / Using Swift and UIKit</summary>
 <p>
 
 * List of courses I took to improve my knowledge and skills about iOS Development through a couple of years.
@@ -161,10 +191,10 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </p>
 </details>
 
-<details><summary>iOS Development Courses / Using Objective-C</summary>
+<details><summary>iOS Development Lectures / Using Objective-C</summary>
 <p>
 
-* iOS Development Courses using Objective-C during self-study time.
+* iOS Development Lectures using Objective-C during self-study time.
 
 1. [x] [iOS Programming (Objective-C Using MRC)](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec) 
 3. [ ] [Beginning Xcode](https://github.com/c4arl0s/BeginningXcodeContentIndex#beginning-xcode)
@@ -186,7 +216,7 @@ iOS Design Patterns used: MVC, Singleton, delegation, Observer, Target-Action,
 </p>
 </details>
 
-<details><summary>C programming language</summary>
+<details><summary>C Programming Language</summary>
 <p>
 
 1. [x] [Understanding And Using C Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)  
